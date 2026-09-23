@@ -1,0 +1,62 @@
+{
+  "_comment": "Turmeric ingredient import. Status is draft so nothing goes live by accident.",
+
+  "type": "ingredient",
+  "title": "Turmeric",
+  "slug": "turmeric",
+  "status": "draft",
+
+  "ingredient_cat": ["Root / Rhizome"],
+
+  "seo": {
+    "title": "Turmeric (Haldi, Haridra) - Benefits, Uses and Safety",
+    "description": "Learn about turmeric, or haldi, including its botanical identity, Ayurvedic properties, traditional uses for throat and respiratory comfort, dosage and safety."
+  },
+
+  "botanical_name": "Curcuma longa",
+  "sanskrit_name": "Haridra",
+  "hindi_name": "Haldi",
+  "short_description": "Turmeric is a golden rhizome traditionally used to support the throat, reduce Kapha stickiness and ease mild cough and congestion as part of kitchen Ayurveda.",
+  "full_description": "<p>Turmeric is the dried rhizome of <em>Curcuma longa</em>, known in Ayurveda as Haridra and in Hindi as haldi. It is bitter, pungent and heating, and is used both as a culinary spice and in traditional preparations for the throat and respiratory tract. A pinch in warm water, milk or with black pepper is a common household support during seasonal cough.</p>",
+
+  "recommended_dosage": {
+    "churna": "1-3 g",
+    "decoction": "30-50 ml",
+    "extract": "Use only as directed by a qualified practitioner"
+  },
+
+  "ayurvedic_properties": {
+    "rasa": [
+      { "value": "Tikta (bitter)" },
+      { "value": "Katu (pungent)" }
+    ],
+    "guna": [
+      { "value": "Ruksha (dry)" },
+      { "value": "Laghu (light)" }
+    ],
+    "virya": "Ushna (heating)",
+    "vipaka": "Katu (pungent)",
+    "dosha_effect": "Traditionally considered balancing for Kapha and Pitta when used in moderate amounts; excess heat may aggravate Pitta."
+  },
+
+  "key_benefits": [
+    { "benefit": "Traditionally used to soothe a scratchy throat and mild cough." },
+    { "benefit": "May help reduce Kapha stickiness in the channels." },
+    { "benefit": "Used as a kitchen spice and in warm drinks during seasonal congestion." }
+  ],
+
+  "therapeutic_uses": [
+    { "use": "Traditionally used for Kasa, sore throat and Pratishyaya-related discomfort." },
+    { "use": "Used as a pinch in warm water, with honey after cooling, or with black pepper." },
+    { "use": "Used in gargles with warm water and a pinch of salt for throat irritation." }
+  ],
+
+  "safety_and_contraindications": [
+    { "safety": "High doses or extracts may irritate the stomach and are not a substitute for medical care." },
+    { "safety": "People with gallstones, bile-duct obstruction, bleeding disorders, or those taking anticoagulant medicines should consult a clinician before using concentrated turmeric." },
+    { "safety": "Avoid staining clothes and open wounds with culinary powder; stop use if allergy or significant discomfort occurs." }
+  ],
+
+  "featured_remedies": ["turmeric-black-pepper-gargle"],
+  "associated_diseases": ["kasa-pratishyaya-respiratory-congestion"]
+}

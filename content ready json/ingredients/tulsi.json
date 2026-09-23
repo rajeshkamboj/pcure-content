@@ -1,0 +1,62 @@
+{
+  "_comment": "Tulsi (holy basil) ingredient import. Status is draft so nothing goes live by accident.",
+
+  "type": "ingredient",
+  "title": "Tulsi",
+  "slug": "tulsi",
+  "status": "draft",
+
+  "ingredient_cat": ["Leaf / Herb"],
+
+  "seo": {
+    "title": "Tulsi (Holy Basil) - Benefits, Uses and Safety",
+    "description": "Learn about tulsi, or holy basil, including its botanical identity, Ayurvedic properties, traditional respiratory uses, benefits, dosage and safety considerations."
+  },
+
+  "botanical_name": "Ocimum tenuiflorum",
+  "sanskrit_name": "Tulasi",
+  "hindi_name": "Tulsi",
+  "short_description": "Tulsi is an aromatic sacred basil traditionally used in Ayurvedic teas and decoctions to support the throat, clear Kapha from the airways and ease seasonal cough and congestion.",
+  "full_description": "<p>Tulsi, or holy basil (<em>Ocimum tenuiflorum</em>, also known as <em>Ocimum sanctum</em>), is a fragrant leaf used as a household herb and in classical Ayurvedic preparations. It is traditionally considered warming, light and clearing, and is widely used for Kasa (cough) and Pratishyaya (nasal congestion), often as a fresh-leaf tea with ginger.</p>",
+
+  "recommended_dosage": {
+    "churna": "1-3 g dried leaf",
+    "decoction": "30-50 ml",
+    "extract": "Use only as directed by a qualified practitioner"
+  },
+
+  "ayurvedic_properties": {
+    "rasa": [
+      { "value": "Katu (pungent)" },
+      { "value": "Tikta (bitter)" }
+    ],
+    "guna": [
+      { "value": "Laghu (light)" },
+      { "value": "Ruksha (dry)" }
+    ],
+    "virya": "Ushna (heating)",
+    "vipaka": "Katu (pungent)",
+    "dosha_effect": "Traditionally considered balancing for Kapha and Vata; excessive use may aggravate Pitta."
+  },
+
+  "key_benefits": [
+    { "benefit": "Traditionally used to ease cough, sore throat and nasal congestion." },
+    { "benefit": "May help clear excess Kapha from the respiratory channels." },
+    { "benefit": "Used as a warming household tea during seasonal colds." }
+  ],
+
+  "therapeutic_uses": [
+    { "use": "Traditionally used for Kasa (cough) and Pratishyaya (cold and rhinitis)." },
+    { "use": "Used in infusions, decoctions and steam with ginger or black pepper." },
+    { "use": "Used in traditional preparations intended to support respiratory comfort and immunity." }
+  ],
+
+  "safety_and_contraindications": [
+    { "safety": "Use culinary amounts unless a practitioner advises otherwise; concentrated extracts need professional guidance." },
+    { "safety": "People with excess heat, reflux or Pitta aggravation may find large amounts too warming." },
+    { "safety": "Pregnant people, those taking medicines, or anyone with a chronic illness should consult a qualified healthcare professional first." }
+  ],
+
+  "featured_remedies": ["tulsi-ginger-tea"],
+  "associated_diseases": ["kasa-pratishyaya-respiratory-congestion"]
+}

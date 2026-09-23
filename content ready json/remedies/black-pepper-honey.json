@@ -1,0 +1,58 @@
+{
+  "_comment": "Black pepper and honey lick home remedy import. Status is draft so nothing goes live by accident.",
+
+  "type": "remedy",
+  "title": "Black Pepper and Honey",
+  "slug": "black-pepper-honey",
+  "status": "draft",
+
+  "dosha": ["Kapha", "Vata"],
+
+  "seo": {
+    "title": "Black Pepper and Honey for Cough - Ayurvedic Home Remedy",
+    "description": "A traditional pinch of black pepper mixed with honey, used as a simple Ayurvedic lick to ease productive cough and Kapha congestion."
+  },
+
+  "hindi_name": "Kali Mirch aur Shahad",
+  "purpose": "A simple lick traditionally used to help clear Kapha mucus, soothe the throat and ease a productive respiratory cough.",
+  "target_condition": "Respiratory cough and congestion (Kasa-Pratishyaya)",
+  "difficulty": "Very Easy",
+  "prep_time": "2 minutes",
+  "dosage": "1/2 teaspoon of the mix",
+  "timing": "After meals or when cough is troublesome",
+  "frequency": "1-2 times daily",
+  "anupana": "Lick slowly; may be followed by a few sips of warm water",
+  "duration": "Up to 5-7 days for a mild cough, or as advised",
+  "traditional_context": "Maricha (black pepper) with Madhu (honey) is a classical household anupana for Kaphaja Kasa. Pepper is tikshna and ushna, helping to break sticky Kapha; honey is yogavahi and traditionally used in cough so long as it is never heated.",
+  "featured": false,
+
+  "ingredients_list": [
+    { "ingredient": "black-pepper", "quantity": "1 pinch of freshly crushed pepper", "notes": "A pinch only; do not use a heaped spoon" }
+  ],
+
+  "preparation": [
+    { "step": "Crush 2-3 black peppercorns, or take a small pinch of coarsely ground black pepper." },
+    { "step": "Mix the pinch into 1/2 teaspoon of raw honey at room temperature. Do not heat the honey." },
+    { "step": "Lick the mixture slowly and allow it to coat the throat. Follow with warm water if needed." }
+  ],
+
+  "precautions": [
+    { "precaution": "Use only a pinch of pepper. Larger amounts can burn the throat and stomach." },
+    { "precaution": "Never heat honey. Do not give honey to infants under one year of age." },
+    { "precaution": "This does not replace medical care for breathlessness, high fever, chest pain or a lingering cough." }
+  ],
+
+  "who_should_avoid": [
+    { "warning": "People with ulcers, severe gastritis, marked Pitta, or pepper allergy should avoid this mix." },
+    { "warning": "Diabetics should account for honey and seek professional advice before using it regularly." }
+  ],
+
+  "tags": [
+    { "tag": "cough" },
+    { "tag": "home-remedy" },
+    { "tag": "kapha" },
+    { "tag": "honey" }
+  ],
+
+  "related_disease": "kasa-pratishyaya-respiratory-congestion"
+}

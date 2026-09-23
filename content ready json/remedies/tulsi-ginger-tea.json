@@ -1,0 +1,60 @@
+{
+  "_comment": "Tulsi-ginger tea home remedy import. Status is draft so nothing goes live by accident.",
+
+  "type": "remedy",
+  "title": "Tulsi Ginger Tea",
+  "slug": "tulsi-ginger-tea",
+  "status": "draft",
+
+  "dosha": ["Kapha", "Vata"],
+
+  "seo": {
+    "title": "Tulsi Ginger Tea for Cough and Congestion - Ayurvedic Home Remedy",
+    "description": "A simple Ayurvedic home tea of tulsi and ginger, taken warm, traditionally used to ease respiratory cough, sore throat and nasal congestion."
+  },
+
+  "hindi_name": "Tulsi Adrak Chai",
+  "purpose": "A warming household tea traditionally used to soothe cough, clear mild nasal congestion and support the throat during Kasa-Pratishyaya.",
+  "target_condition": "Respiratory cough and congestion (Kasa-Pratishyaya)",
+  "difficulty": "Very Easy",
+  "prep_time": "10 minutes",
+  "dosage": "1 cup (about 150-200 ml)",
+  "timing": "Morning and evening, or when the throat feels irritated",
+  "frequency": "1-2 times daily",
+  "anupana": "Take warm. Optional 1/2 tsp honey after the tea has cooled slightly; never add honey to boiling liquid.",
+  "duration": "3-7 days for a mild seasonal cough, or as advised by a practitioner",
+  "traditional_context": "Tulsi and ginger are classical Kapha-Vata pacifying kitchen herbs. Fresh tulsi leaves and ginger rhizome are simmered as a light decoction (kwatha-like tea) to kindle Agni, reduce Ama and ease Kasa and Pratishyaya. Honey, once the cup is warm rather than hot, is a traditional anupana for cough.",
+  "featured": false,
+
+  "ingredients_list": [
+    { "ingredient": "tulsi", "quantity": "8-10 fresh leaves, or 1 tsp dried", "notes": "Wash fresh leaves before use" },
+    { "ingredient": "ginger", "quantity": "1-2 thin slices fresh, or a pinch of dry powder", "notes": "Fresh ginger is preferred for a seasonal cough" }
+  ],
+
+  "preparation": [
+    { "step": "Pour 1 to 1.5 cups of water into a small pan and add the tulsi leaves and ginger." },
+    { "step": "Bring to a gentle boil, then simmer for 5-8 minutes until the water is aromatic and slightly reduced." },
+    { "step": "Strain into a cup. Allow it to become comfortably warm." },
+    { "step": "If using honey, stir it in only after the tea has cooled below steaming heat. Sip slowly." }
+  ],
+
+  "precautions": [
+    { "precaution": "This is a kitchen support for mild seasonal cough, not a treatment for breathlessness, high fever or a cough lasting more than two to three weeks." },
+    { "precaution": "Do not give honey to infants under one year of age." },
+    { "precaution": "Stop if heartburn, mouth burning or allergy occurs." }
+  ],
+
+  "who_should_avoid": [
+    { "warning": "People with marked Pitta aggravation, active ulcers or severe reflux may find ginger-tulsi tea too heating." },
+    { "warning": "Pregnant people, young children, and anyone on regular medicines should check with a qualified clinician before using it as a repeated remedy." }
+  ],
+
+  "tags": [
+    { "tag": "cough" },
+    { "tag": "home-remedy" },
+    { "tag": "respiratory" },
+    { "tag": "tea" }
+  ],
+
+  "related_disease": "kasa-pratishyaya-respiratory-congestion"
+}

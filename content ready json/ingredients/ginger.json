@@ -1,0 +1,61 @@
+{
+  "_comment": "Ginger ingredient import. Status is draft so nothing goes live by accident.",
+
+  "type": "ingredient",
+  "title": "Ginger",
+  "slug": "ginger",
+  "status": "draft",
+
+  "ingredient_cat": ["Root / Rhizome"],
+
+  "seo": {
+    "title": "Ginger (Adrak, Shunthi) - Benefits, Uses and Safety",
+    "description": "Learn about ginger, or adrak and shunthi, including its botanical identity, Ayurvedic properties, traditional uses for cough and digestion, dosage and safety."
+  },
+
+  "botanical_name": "Zingiber officinale",
+  "sanskrit_name": "Ardraka (fresh), Shunthi (dry)",
+  "hindi_name": "Adrak / Sonth",
+  "short_description": "Ginger is a warming rhizome traditionally used to kindle Agni, reduce Kapha and ease cough, sore throat and respiratory congestion.",
+  "full_description": "<p>Ginger is the rhizome of <em>Zingiber officinale</em>. Fresh ginger is called Ardraka (adrak) and dry ginger is Shunthi (sonth). Both are used in Ayurvedic kitchen medicine and classical formulae. Ginger is pungent and heating, traditionally used to support digestion and to help clear Kapha from the throat and chest in Kasa and Pratishyaya.</p>",
+
+  "recommended_dosage": {
+    "churna": "1-2 g dry ginger powder",
+    "decoction": "30-50 ml",
+    "extract": "Use only as directed by a qualified practitioner"
+  },
+
+  "ayurvedic_properties": {
+    "rasa": [
+      { "value": "Katu (pungent)" }
+    ],
+    "guna": [
+      { "value": "Laghu (light)" },
+      { "value": "Snigdha (unctuous)" }
+    ],
+    "virya": "Ushna (heating)",
+    "vipaka": "Madhura (sweet)",
+    "dosha_effect": "Traditionally considered balancing for Kapha and Vata; excess may aggravate Pitta or cause heartburn."
+  },
+
+  "key_benefits": [
+    { "benefit": "Supports healthy digestion and Agni." },
+    { "benefit": "Traditionally used to soothe cough, throat irritation and congestion." },
+    { "benefit": "Warming quality may help reduce Kapha mucus in the airways." }
+  ],
+
+  "therapeutic_uses": [
+    { "use": "Traditionally used for Kasa (cough), Pratishyaya (cold) and indigestion." },
+    { "use": "Used as fresh tea, dry powder with honey, or in decoctions with tulsi and black pepper." },
+    { "use": "Used in classical respiratory and digestive formulations such as Trikatu." }
+  ],
+
+  "safety_and_contraindications": [
+    { "safety": "Large amounts may cause heartburn, mouth irritation or Pitta aggravation." },
+    { "safety": "People with reflux, gallstones, bleeding disorders, or those on blood-thinning medicines should seek professional advice before using concentrated ginger." },
+    { "safety": "Pregnant people should avoid high doses unless a qualified clinician advises otherwise." }
+  ],
+
+  "featured_remedies": ["tulsi-ginger-tea"],
+  "associated_diseases": ["kasa-pratishyaya-respiratory-congestion"]
+}

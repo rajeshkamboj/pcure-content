@@ -1,0 +1,60 @@
+{
+  "_comment": "Turmeric and black pepper warm gargle home remedy import. Status is draft so nothing goes live by accident.",
+
+  "type": "remedy",
+  "title": "Turmeric Black Pepper Gargle",
+  "slug": "turmeric-black-pepper-gargle",
+  "status": "draft",
+
+  "dosha": ["Kapha", "Vata"],
+
+  "seo": {
+    "title": "Turmeric and Black Pepper Gargle for Sore Throat and Cough",
+    "description": "A warm turmeric gargle with a pinch of black pepper and salt, traditionally used to ease throat irritation in respiratory cough and congestion."
+  },
+
+  "hindi_name": "Haldi Kali Mirch Gargle",
+  "purpose": "A warm gargle traditionally used to soothe a scratchy throat and support comfort in cough with congestion.",
+  "target_condition": "Respiratory cough and congestion (Kasa-Pratishyaya)",
+  "difficulty": "Very Easy",
+  "prep_time": "5 minutes",
+  "dosage": "1 cup for gargling; do not swallow unless a practitioner advises",
+  "timing": "Morning and night, after brushing",
+  "frequency": "1-2 times daily",
+  "anupana": "Not swallowed; spit after gargling, then sip warm water if the mouth feels dry",
+  "duration": "3-5 days for mild throat irritation",
+  "traditional_context": "Haridra (turmeric) with a pinch of Maricha and warm saline water is a common kitchen practice for Galashosha and Kasa. The gargle is local, heating and kapha-reducing, intended to comfort the throat rather than treat deeper chest disease.",
+  "featured": false,
+
+  "ingredients_list": [
+    { "ingredient": "turmeric", "quantity": "1/4 teaspoon powder", "notes": "Culinary turmeric powder" },
+    { "ingredient": "black-pepper", "quantity": "1 small pinch", "notes": "Optional if the throat is already burning" }
+  ],
+
+  "preparation": [
+    { "step": "Warm 1 cup of water until it is hot but comfortable to hold in the mouth. Do not use boiling water." },
+    { "step": "Stir in 1/4 teaspoon turmeric, a pinch of rock salt, and an optional pinch of black pepper." },
+    { "step": "Gargle for 20-30 seconds and spit. Repeat until the cup is finished." },
+    { "step": "Rinse the mouth with plain warm water to limit turmeric staining." }
+  ],
+
+  "precautions": [
+    { "precaution": "The liquid should be warm, never scalding. Test the temperature before gargling." },
+    { "precaution": "Do not use this gargle on an open mouth ulcer if it stings badly; stop if pain increases." },
+    { "precaution": "Turmeric stains fabric and sinks. Use a cup you do not mind colouring." }
+  ],
+
+  "who_should_avoid": [
+    { "warning": "Young children who cannot gargle and spit safely should not use this remedy." },
+    { "warning": "People with turmeric or pepper allergy, or a severely inflamed throat, should seek clinical advice instead." }
+  ],
+
+  "tags": [
+    { "tag": "gargle" },
+    { "tag": "sore-throat" },
+    { "tag": "cough" },
+    { "tag": "home-remedy" }
+  ],
+
+  "related_disease": "kasa-pratishyaya-respiratory-congestion"
+}

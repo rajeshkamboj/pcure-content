@@ -19,8 +19,17 @@
   "overview": "<p>Respiratory cough is one of the most common upper-airway complaints. In Ayurveda it is described as <em>Kasa</em> — a forceful expulsion of air through the mouth that produces a characteristic sound — and it frequently appears together with <em>Pratishyaya</em>, the classical presentation of nasal congestion, sneezing and discharge. Together they correspond closely to cough with cold, rhinitis and respiratory congestion in modern terms.</p><p>Classical texts treat Kasa both as a symptom of other diseases and as an independent condition with its own causes and pathogenesis. Charaka Samhita dedicates Chikitsa Sthana chapter 18 to Kasa, while Pratishyaya is discussed in detail in Sushruta Samhita (Uttara Tantra) and Ashtanga Hridaya. The usual pattern is aggravation of Kapha with disturbed Vata (especially Prana and Udana Vayu) in the channels of breath, often after cold exposure, heavy or incompatible food, dust, smoke or seasonal change.</p><p>Ayurvedic care emphasises removing the cause (<em>nidana parivarjana</em>), supporting digestion so that Ama does not keep feeding mucus, clearing the nasal and chest channels, and soothing the throat. Warm, light food, steam, rest and simple kitchen herbs are the first supports. Persistent cough, breathlessness, high fever, chest pain or blood in sputum need prompt medical assessment and are not managed with home care alone.</p>",
   "featured": false,
 
-  "home_remedies": [],
-  "key_ingredients": [],
+  "home_remedies": [
+    "tulsi-ginger-tea",
+    "black-pepper-honey",
+    "turmeric-black-pepper-gargle"
+  ],
+  "key_ingredients": [
+    "tulsi",
+    "ginger",
+    "turmeric",
+    "black-pepper"
+  ],
 
   "ayurvedic_perspective": {
     "samprapti": "Causative factors aggravate Kapha and disturb Vata, especially Prana and Udana Vayu. Impaired Agni allows Ama to form and mix with Kapha, producing sticky mucus. This obstructs Pranavaha srotas (the channels of breath) and the nasal passages (Ghrana moola). Vata, blocked in its normal downward and outward movement, is forced upward through the chest, throat and head and expelled through the mouth as cough (Kasa). In the nose the same obstruction appears as Pratishyaya — sneezing, blockage and discharge. If Kapha predominates the cough is productive and heavy; if Vata predominates it is dry, spasmodic and worse in cold, dry air; if Pitta joins there may be burning in the throat and yellowish sputum.",
