@@ -1,0 +1,91 @@
+{
+  "_comment": "SAMPLE placeholder content showing every Disease field. Keys starting with _ are ignored. Status is draft so nothing goes live by accident.",
+
+  "type": "disease",
+  "title": "Example Disease (Sample)",
+  "slug": "example-disease",
+  "status": "draft",
+
+  "dosha": ["Pitta"],
+  "disease_cat": ["Digestive"],
+
+  "seo": {
+    "title": "Example Disease - Sample SEO Title",
+    "description": "Sample SEO description for the example disease."
+  },
+
+  "sanskrit_name": "Sample Sanskrit Name",
+  "summary": "Sample summary text.",
+  "overview": "<p>Sample overview paragraph one.</p><p>Sample overview paragraph two.</p>",
+  "featured": false,
+
+  "reviewed_by": "example-author",
+  "home_remedies": ["example-remedy-one", "example-remedy-two"],
+  "key_ingredients": ["example-ingredient-one", "example-ingredient-two"],
+
+  "ayurvedic_perspective": {
+    "samprapti": "Sample samprapti text.",
+    "dosha_imbalance": "Sample dosha imbalance",
+    "nidana": [
+      { "cause": "Sample nidana one" },
+      { "cause": "Sample nidana two" }
+    ],
+    "dhatus_affected": [
+      { "dhatu": "Sample dhatu one" },
+      { "dhatu": "Sample dhatu two" }
+    ]
+  },
+
+  "symptoms": {
+    "classical": [
+      { "symptom": "Sample classical symptom one" },
+      { "symptom": "Sample classical symptom two" }
+    ],
+    "modern": [
+      { "symptom": "Sample modern symptom one" },
+      { "symptom": "Sample modern symptom two" }
+    ],
+    "warning_signs": [
+      { "warning": "Sample warning sign one" },
+      { "warning": "Sample warning sign two" }
+    ]
+  },
+
+  "causes": [
+    { "cause": "Sample cause one" },
+    { "cause": "Sample cause two" }
+  ],
+
+  "diet_and_lifestyle": {
+    "pathya": [
+      { "item": "Sample pathya item one" },
+      { "item": "Sample pathya item two" }
+    ],
+    "apathya": [
+      { "item": "Sample apathya item one" },
+      { "item": "Sample apathya item two" }
+    ],
+    "lifestyle_tips": [
+      { "tip": "Sample lifestyle tip one" },
+      { "tip": "Sample lifestyle tip two" }
+    ],
+    "yoga_pranayama": [
+      { "practice": "Sample practice one" },
+      { "practice": "Sample practice two" }
+    ]
+  },
+
+  "precautions": [
+    { "precaution": "Sample precaution one" },
+    { "precaution": "Sample precaution two" }
+  ],
+
+  "faqs": [
+    { "question": "Sample question one?", "answer": "Sample answer one." },
+    { "question": "Sample question two?", "answer": "Sample answer two." }
+  ],
+
+  "references": [
+    { "title": "Sample reference title", "source": "Sample source", "year": "2000" }
+  ]
+}

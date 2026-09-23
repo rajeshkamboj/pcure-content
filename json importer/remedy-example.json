@@ -1,0 +1,54 @@
+{
+  "_comment": "SAMPLE placeholder content showing every Remedy field. Keys starting with _ are ignored. Status is draft so nothing goes live by accident.",
+
+  "type": "remedy",
+  "title": "Example Remedy One (Sample)",
+  "slug": "example-remedy-one",
+  "status": "draft",
+
+  "dosha": ["Pitta"],
+
+  "seo": {
+    "title": "Example Remedy - Sample SEO Title",
+    "description": "Sample SEO description for the example remedy."
+  },
+
+  "hindi_name": "Sample Hindi Name",
+  "purpose": "Sample purpose text.",
+  "target_condition": "Sample target condition",
+  "difficulty": "Easy",
+  "prep_time": "5 minutes",
+  "dosage": "1 cup",
+  "timing": "Morning",
+  "frequency": "Once daily",
+  "anupana": "Warm water",
+  "duration": "1 week",
+  "traditional_context": "Sample traditional context text.",
+  "featured": false,
+
+  "ingredients_list": [
+    { "ingredient": "example-ingredient-one", "quantity": "1 tsp", "notes": "Sample note" },
+    { "ingredient": "example-ingredient-two", "quantity": "1 cup", "notes": "" }
+  ],
+
+  "preparation": [
+    { "step": "Sample preparation step one" },
+    { "step": "Sample preparation step two" }
+  ],
+
+  "precautions": [
+    { "precaution": "Sample precaution one" }
+  ],
+
+  "who_should_avoid": [
+    { "warning": "Sample warning one" }
+  ],
+
+  "tags": [
+    { "tag": "sample-tag-one" },
+    { "tag": "sample-tag-two" }
+  ],
+
+  "verified_by": "example-author",
+  "related_disease": "example-disease"
+}

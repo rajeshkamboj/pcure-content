@@ -1,0 +1,56 @@
+{
+  "_comment": "SAMPLE placeholder content showing every Ingredient field. Keys starting with _ are ignored. Status is draft so nothing goes live by accident.",
+
+  "type": "ingredient",
+  "title": "Example Ingredient One (Sample)",
+  "slug": "example-ingredient-one",
+  "status": "draft",
+
+  "ingredient_cat": ["Root / Rhizome"],
+
+  "seo": {
+    "title": "Example Ingredient - Sample SEO Title",
+    "description": "Sample SEO description for the example ingredient."
+  },
+
+  "botanical_name": "Sample botanicus",
+  "sanskrit_name": "Sample Sanskrit Name",
+  "hindi_name": "Sample Hindi Name",
+  "short_description": "Sample short description.",
+  "full_description": "<p>Sample full description paragraph.</p>",
+
+  "recommended_dosage": {
+    "churna": "1-2 g",
+    "decoction": "20 ml",
+    "extract": "250 mg"
+  },
+
+  "ayurvedic_properties": {
+    "rasa": [
+      { "value": "Sample rasa one" },
+      { "value": "Sample rasa two" }
+    ],
+    "guna": [
+      { "value": "Sample guna one" }
+    ],
+    "virya": "Sample virya",
+    "vipaka": "Sample vipaka",
+    "dosha_effect": "Sample dosha effect text."
+  },
+
+  "key_benefits": [
+    { "benefit": "Sample benefit one" },
+    { "benefit": "Sample benefit two" }
+  ],
+
+  "therapeutic_uses": [
+    { "use": "Sample use one" }
+  ],
+
+  "safety_and_contraindications": [
+    { "safety": "Sample safety note one" }
+  ],
+
+  "featured_remedies": ["example-remedy-one"],
+  "associated_diseases": ["example-disease"]
+}
