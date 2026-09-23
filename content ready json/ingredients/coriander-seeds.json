@@ -1,0 +1,63 @@
+{
+  "_comment": "Coriander seeds ingredient import. Status is draft so nothing goes live by accident.",
+
+  "type": "ingredient",
+  "title": "Coriander Seeds",
+  "slug": "coriander-seeds",
+  "status": "draft",
+
+  "ingredient_cat": ["Seed / Spice"],
+
+  "seo": {
+    "title": "Coriander Seeds (Dhania) - Benefits, Uses and Safety",
+    "description": "Learn about coriander seeds, or dhania, including their botanical identity, Ayurvedic properties, traditional uses, benefits, dosage and safety considerations."
+  },
+
+  "botanical_name": "Coriandrum sativum",
+  "sanskrit_name": "Dhanyaka",
+  "hindi_name": "Dhania",
+  "short_description": "Coriander seeds are aromatic seeds traditionally used as a culinary spice and in Ayurvedic preparations to support digestion and cooling balance.",
+  "full_description": "<p>Coriander seeds, commonly known as dhania, are the dried fruits of <em>Coriandrum sativum</em>. They are widely used as a culinary spice and have a long history of use in traditional Ayurvedic preparations, particularly for supporting digestion and helping to balance excess heat.</p>",
+
+  "recommended_dosage": {
+    "churna": "1-3 g",
+    "decoction": "30-50 ml",
+    "extract": "Use only as directed by a qualified practitioner"
+  },
+
+  "ayurvedic_properties": {
+    "rasa": [
+      { "value": "Madhura (sweet)" },
+      { "value": "Tikta (bitter)" },
+      { "value": "Kashaya (astringent)" }
+    ],
+    "guna": [
+      { "value": "Laghu (light)" },
+      { "value": "Snigdha (unctuous)" }
+    ],
+    "virya": "Sita (cooling)",
+    "vipaka": "Madhura (sweet)",
+    "dosha_effect": "Traditionally considered balancing for Pitta and supportive for Vata; it may be used for Kapha in moderate amounts."
+  },
+
+  "key_benefits": [
+    { "benefit": "Supports healthy digestion and appetite." },
+    { "benefit": "May help soothe occasional digestive discomfort and bloating." },
+    { "benefit": "Traditionally used to support a balanced response to excess heat." }
+  ],
+
+  "therapeutic_uses": [
+    { "use": "Traditionally used for indigestion, reduced appetite and occasional abdominal discomfort." },
+    { "use": "Used in digestive spice blends, infusions and decoctions." },
+    { "use": "Used in traditional preparations intended to support cooling and urinary comfort." }
+  ],
+
+  "safety_and_contraindications": [
+    { "safety": "Use moderate amounts; excessive intake may cause digestive upset in some people." },
+    { "safety": "People with allergies to coriander or other Apiaceae family plants should avoid it." },
+    { "safety": "People taking medicines or using concentrated preparations should consult a qualified healthcare professional first." }
+  ],
+
+  "featured_remedies": [],
+  "associated_diseases": []
+}
