@@ -1,0 +1,64 @@
+{
+  "_comment": "Golden Milk (Haldi Doodh) remedy import. Status is draft so nothing goes live by accident.",
+
+  "type": "remedy",
+  "title": "Golden Milk (Haldi Doodh)",
+  "slug": "haldi-doodh-golden-turmeric-elixir",
+  "status": "draft",
+
+  "dosha": ["Kapha", "Vata"],
+
+  "seo": {
+    "title": "Golden Milk (Haldi Doodh) - Ayurvedic Recipe for Immunity and Inflammation",
+    "description": "Learn how to make Golden Milk (Haldi Doodh), a traditional Ayurvedic turmeric latte used to support immunity, reduce inflammation, and improve sleep."
+  },
+
+  "hindi_name": "हल्दी दूध (Haldi Doodh)",
+  "purpose": "To reduce systemic inflammation, support respiratory health, and promote restful sleep.",
+  "target_condition": "General immunity, joint pain, and common cold",
+  "difficulty": "Easy",
+  "prep_time": "10 minutes",
+  "dosage": "1 cup",
+  "timing": "Evening or before bed",
+  "frequency": "Once daily",
+  "anupana": "Warm milk",
+  "duration": "As needed",
+  "traditional_context": "Haldi Doodh is a staple in Indian households, used as a comforting tonic to treat everything from the common cold to internal injuries. In Ayurveda, the combination of turmeric (Haridra) and warm milk creates a soothing, anti-inflammatory elixir that balances Vata and Kapha.",
+  "featured": true,
+
+  "ingredients_list": [
+    { "ingredient": "turmeric", "quantity": "1/2 tsp", "notes": "Use high-quality organic turmeric powder or fresh grated root" },
+    { "ingredient": "milk", "quantity": "1 cup", "notes": "Cow's milk or a plant-based alternative like almond or coconut milk" },
+    { "ingredient": "black-pepper", "quantity": "1 pinch", "notes": "Crucial for enhancing the absorption of curcumin" },
+    { "ingredient": "honey", "quantity": "1 tsp", "notes": "Optional; add only after the milk has cooled slightly to avoid heating the honey" },
+    { "ingredient": "ghee", "quantity": "1/2 tsp", "notes": "Optional; adds lubrication and helps in absorption" }
+  ],
+
+  "preparation": [
+    { "step": "Pour the milk into a small saucepan and heat over medium heat." },
+    { "step": "Whisk in the turmeric powder, black pepper, and ghee." },
+    { "step": "Simmer gently for 5-10 minutes, stirring occasionally to prevent scorching." },
+    { "step": "Remove from heat and pour into a cup." },
+    { "step": "Once the milk is warm (not boiling), stir in honey if using." }
+  ],
+
+  "precautions": [
+    { "precaution": "Do not boil honey, as it is considered 'ama' (toxic) in Ayurveda when overheated." },
+    { "precaution": "Ensure black pepper is included to maximize the bioavailability of the turmeric." }
+  ],
+
+  "who_should_avoid": [
+    { "warning": "Individuals with gallstones should consult a practitioner before increasing turmeric intake." },
+    { "warning": "People on blood-thinning medications should use caution due to turmeric's mild anticoagulant properties." }
+  ],
+
+  "tags": [
+    { "tag": "immunity" },
+    { "tag": "anti-inflammatory" },
+    { "tag": "sleep-support" },
+    { "tag": "tonics" }
+  ],
+
+  "verified_by": "ayurvedic-expert",
+  "related_disease": "respiratory-cough"
+}

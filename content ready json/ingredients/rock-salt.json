@@ -1,0 +1,72 @@
+{
+  "_comment": "Saindhava (rock salt) ingredient import. Status is draft so nothing goes live by accident. The slug 'rock-salt' matches the ingredients_list reference in 'content ready json/remedies/ardraka-deepana-ginger-lemon-relish.json', which already uses this ingredient; importing this file resolves that relationship.",
+
+  "_relationships_note": "featured_remedies points at ardraka-deepana-ginger-lemon-relush, which exists in 'content ready json/remedies/' and lists rock-salt in its ingredients_list. associated_diseases is left empty because none of the disease files in 'content ready json/diseases/' specifically name rock salt; add slugs later if a suitable disease page references it.",
+
+  "type": "ingredient",
+  "title": "Rock Salt (Saindhava / Sendha Namak)",
+  "slug": "rock-salt",
+  "status": "draft",
+
+  "ingredient_cat": ["Mineral / Salt"],
+
+  "seo": {
+    "title": "Rock Salt (Saindhava / Sendha Namak) - Ayurvedic Benefits, Uses and Safety",
+    "description": "Rock salt (Saindhava / sendha namak) explained: its Ayurvedic properties, traditional use as the least-heating salt, benefits, dosage and safety with respect to blood pressure and hydration."
+  },
+
+  "botanical_name": "A mineral salt - the edible form is mainly sodium chloride (NaCl) with trace minerals; botanical name is not assigned",
+  "sanskrit_name": "Saindhava / Saindhava Lavana (सैंधव / सैंधव लवण) - the natural rock form of salt, traditionally the least heating of the Lavanas",
+  "hindi_name": "Sendha Namak (सेंधा नमक) or Saindhav Namak (सैंधव नमक) - the unrefined grey or pink rock salt used in cooking and medicine",
+  "short_description": "Rock salt, known as Saindhava lavana in Ayurveda, is the whole, unrefined mineral salt that retains trace minerals; among the salts it is classically regarded as the mildest and least heating, making it the household and medicinal salt of choice in Vata- and Kapha-type preparations.",
+  "full_description": "<p>Rock salt, the coarse, grey or pink crystal of the earth, is called Saindhava lavana in the Ayurvedic materia medica and is classically numbered among the minor minerals (Abyava) as one of the Lavana group. Unlike the evaporated and refined salts, Saindhava is the whole salt: it still carries the trace earth minerals that give it its colour and its reputation for being gentler. Because it is the salt that forms naturally in the ground, traditional texts describe it as born of the earth and water, and it is the salt taken when a preparation must be salty without adding too much heat.</p><p>The texts are clear that not all salt is the same for the body. Saindhava is placed as the least heating of the Lavanas - sharper than the sea salts but steadier than the intensely heating and drying salts, and it is the one suited to regular, long-term household use. That quality is what gives it its place in the everyday kitchen rather than in concentrated doses, and it is the salt chosen for a before-meal relish where the goal is to kindle appetite without provoking pitta or sourness in the stomach. Because it dissolves slowly and leaves a trace of minerals behind, it is also the salt used in classical oil and paste preparations where a gentle, sustained action is wanted.</p><p>Its traditional medical uses follow directly from these qualities: a little rock salt in warm water is a simple, gentle vehicle (anupana) for other herbs; it is the salt sprinkled over a dull appetite; and it is the salt stirred into cooling pastes and into warm, grounding meals for Vata. Its place here is as a food, a household support and an anupana rather than as a medicine to be taken in bulk. Rock salt is still salt, and like all sodium it draws water and raises blood pressure when taken in excess, so the old advice - a small pinch to taste, never a heavy hand - is as relevant to modern kitchens as to the classical one.</p>",
+
+  "recommended_dosage": {
+    "churna": "Not used as a churna - used in small culinary pinches: typically a pinch (about 0.5-1 g) to taste in relishes, warm water, or cooking",
+    "decoction": "Not prepared as a decoction of its own - a small pinch (a few grains) is sometimes stirred into an herbal decoction or warm water as an anupana or carrier, not as the principal substance",
+    "extract": "Not prepared as an extract. Unrefined rock salt is the form used, taken in small culinary amounts"
+  },
+
+  "ayurvedic_properties": {
+    "rasa": [
+      { "value": "Madhura (sweet)" },
+      { "value": "Amla (sour)" }
+    ],
+    "guna": [
+      { "value": "Guru (heavy)" },
+      { "value": "Snigdha (unctuous)" }
+    ],
+    "virya": "Ushna (heating), but the mildest of the Lavanas",
+    "vipaka": "Madhura (sweet)",
+    "dosha_effect": "Reduces Vata and Kapha; increases Pitta only mildly compared with the sharper salts. Its heavy, moist, sweet-post-digestion quality makes it grounding and hydrating rather than drying, which is why it is the salt chosen for long-term, everyday use and for preparations meant to kindle Agni without provoking heat, acidity or a coated tongue."
+  },
+
+  "key_benefits": [
+    { "benefit": "The mildest of the Lavanas (salts), so it kindles Agni and supports appetite without the sharp heating effect of other salts, making it the household and anupana salt of choice." },
+    { "benefit": "Used as a natural vehicle (anupana): a small amount in warm water helps other herbs dissolve and carry their action, and is traditionally taken on an empty stomach or with meals." },
+    { "benefit": "Adds the salty taste to balance meals and relishes - a pinch of rock salt sharpens a dull appetite and makes bitter, astringent or sour herbs more palatable, as in the ginger-lemon Agni relish." },
+    { "benefit": "Its trace minerals and slow dissolution make it gentler on digestion than highly refined table salt, and it leaves food tasting more complete rather than flat." },
+    { "benefit": "Traditional support for Kapha-type indigestion and heaviness: a small amount with warm food or warm water helps cut the stickiness of a Kapha meal without drying or heating the system." }
+  ],
+
+  "therapeutic_uses": [
+    { "use": "As an anupana and carrier for herbs - a pinch of rock salt in warm water or in a decoction helps dissolve and deliver other medicines, and is taken before meals to kindle Agni." },
+    { "use": "Loss of appetite and Mandagni (weak digestion) of Kapha origin - a tiny amount of rock salt with warm water or in a sour before-meal relish sharpens taste and digestion." },
+    { "use": "Support in the digestion of Ama where the Kapha is sticky and heavy but heat and acidity are to be avoided; rock salt is steadier than the sharp salts." },
+    { "use": "Mild respiratory congestion: a pinch of rock salt in warm water or warm milk is a traditional household gargle or gentle expectorant support." },
+    { "use": "As the culinary and medicinal salt in grounding, Kapha-Vata pacifying preparations - warm meals, khichdi, and cooling pastes - where a mild, sustained action is wanted." }
+  ],
+
+  "safety_and_contraindications": [
+    { "safety": "This page is educational. Rock salt is a food and household support, not medicine to be taken in bulk - use in moderation and seek qualified advice for therapeutic use." },
+    { "safety": "Sodium: rock salt is still sodium chloride. Anyone with high blood pressure, heart failure, kidney disease, oedema or swelling should not use extra salt regularly unless a doctor advises it, and should prefer small, culinary amounts." },
+    { "safety": "Heavy metals and contaminants: unrefined rock salts can vary in purity and in trace-metal content; buy a food-grade, tested product and avoid any salt that tastes chemically or unusually bitter." },
+    { "safety": "Stomach heat and acidity: large amounts of any salt - even the mildest Saindhava - can aggravate an ulcer, gastritis, heartburn or a coated tongue; stick to small pinches if the stomach is sensitive." },
+    { "safety": "Not a substitute for medical treatment: salt water gargles and small culinary amounts are household supports, but they do not replace treatment for persistent sore throat, infection or dehydration." },
+    { "safety": "Keep the salt, and any herbal preparation, out of the reach of young children; do not feed salty foods to infants." }
+  ],
+
+  "featured_remedies": ["ardraka-deepana-ginger-lemon-relish"],
+
+  "associated_diseases": []
+}

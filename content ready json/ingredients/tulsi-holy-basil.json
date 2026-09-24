@@ -1,0 +1,83 @@
+{
+  "_comment": "Tulsi (Holy Basil) ingredient import. Status is draft so nothing goes live by accident. The slashes in the requested slug are stripped because the importer requires slugs without slashes.",
+
+  "_relationships_note": "associated_diseases points at anidra-sleep-deprivation-insomnia, which already exists as a disease file in 'content ready json/diseases/' and discusses Tulsi in its diet section. featured_remedies is left empty because no remedy file in 'content ready json/remedies/' uses Tulsi yet - add the slugs once such remedy files exist.",
+
+  "type": "ingredient",
+  "title": "Tulsi (Holy Basil)",
+  "slug": "tulsi-holy-basil",
+  "status": "draft",
+
+  "ingredient_cat": ["Leaf"],
+
+  "seo": {
+    "title": "Tulsi (Holy Basil) - Benefits, Uses, Dosage and Safety",
+    "description": "Tulsi (Ocimum tenuiflorum) explained: Ayurvedic properties, traditional uses, benefits, dosage forms and the safety concerns to know before using it."
+  },
+
+  "botanical_name": "Ocimum tenuiflorum (syn. Ocimum sanctum)",
+  "sanskrit_name": "Tulasi (तुलसी); also called Surasa, Gramya, Sulabha and Vishnupriya",
+  "hindi_name": "Tulsi (तुलसी)",
+  "short_description": "Tulsi is the leaf of Ocimum tenuiflorum, a sacred aromatic herb revered in Ayurveda as an adaptogen and rasayana, traditionally used for respiratory health, fever, stress resilience, and immune support.",
+  "full_description": "<p>Tulsi, or Holy Basil, is one of the most sacred and widely used herbs in Ayurveda. It is a perennial aromatic shrub of the Lamiaceae family, native to the Indian subcontinent and now cultivated throughout the tropics. The plant is considered an embodiment of Lakshmi and is grown in household courtyards and temple gardens across India, where its daily worship is believed to purify the environment and protect the home.</p><p>In classical Ayurveda, Tulsi is described as a Kapha-Vata pacifying herb with Tikta (bitter), Katu (pungent) and Kashaya (astringent) rasas, Laghu (light) and Ruksha (dry) gunas, Ushna (heating) virya, and Katu (pungent) vipaka. It is classified as a Deepana (appetiser), Pachana (digestive), Shwasahara (respiratory support), Jvarahara (antipyretic), Krimighna (antimicrobial), and Rasayana (rejuvenative). Charaka and Sushruta both mention it, and later texts such as Bhavaprakasha and Dhanvantari Nighantu give extensive descriptions of its varieties — Rama Tulsi (green leaf), Krishna Tulsi (purple leaf), and Vana Tulsi (wild forest type) — each with slightly different potency.</p><p>In practice, Tulsi is used where Kapha and Vata are aggravated and the channels are obstructed by Ama — recurrent colds, cough, bronchial congestion, allergic rhinitis, low-grade fever, sluggish digestion, and stress-related fatigue. Modern research has focused on its adaptogenic, immunomodulatory, antioxidant, and antimicrobial properties, largely attributed to eugenol, ursolic acid, rosmarinic acid, and other volatile and phenolic constituents. Those findings are encouraging but not settled, and they sit alongside — not in place of — the traditional picture. This page describes the traditional and commonly reported uses of the herb; it is educational and not a prescription, and dose and suitability should be decided by a qualified practitioner, especially where pregnancy, breastfeeding, hypoglycaemia, or anticoagulant use are concerns.</p>",
+
+  "recommended_dosage": {
+    "churna": "1-3 g twice a day with honey or warm water (dried leaf powder); fresh leaf juice 5-10 ml twice a day",
+    "decoction": "50-100 ml twice a day, prepared from 5-10 g fresh leaves or 2-3 g dried leaf",
+    "extract": "300-600 mg of a standardised leaf extract daily, or as directed by a qualified practitioner"
+  },
+
+  "ayurvedic_properties": {
+    "rasa": [
+      { "value": "Tikta (bitter)" },
+      { "value": "Katu (pungent)" },
+      { "value": "Kashaya (astringent)" }
+    ],
+    "guna": [
+      { "value": "Laghu (light)" },
+      { "value": "Ruksha (dry)" },
+      { "value": "Tikshna (sharp)" }
+    ],
+    "virya": "Ushna (heating)",
+    "vipaka": "Katu (pungent)",
+    "dosha_effect": "Traditionally considered pacifying for Kapha and Vata, and slightly aggravating for Pitta when used in excess due to its heating virya and pungent vipaka. Its light, dry, sharp qualities clear Kapha obstruction, while its heating nature calms Vata. Pitta types should use it with caution and preferably combined with cooling anupana such as honey (when not heated) or taken in smaller doses."
+  },
+
+  "key_benefits": [
+    { "benefit": "Supports respiratory health — traditionally used as a Shwasahara and Kasahara herb for cough, bronchial congestion, allergic rhinitis, and asthma where Kapha-Vata are predominant." },
+    { "benefit": "Antipyretic and antimicrobial — classically described as Jvarahara and Krimighna, used in fevers, especially those of Kapha-Vata origin, and in microbial infections." },
+    { "benefit": "Adaptogenic and stress-resilience — revered as a Rasayana that supports the body's response to physical, mental, and environmental stress; modern studies on standardised extracts report reductions in perceived stress and cortisol." },
+    { "benefit": "Digestive support — Deepana and Pachana action kindles Agni, reduces Ama, and relieves bloating, heaviness, and sluggish digestion." },
+    { "benefit": "Immune modulation — traditionally used to support Vyadhikshamatva (immunity) in seasonal transitions, convalescence, and recurrent infections." },
+    { "benefit": "Cardiovascular and metabolic support — traditionally described as Hridya and Medohara; some modern research suggests lipid-lowering and blood glucose-modulating effects." },
+    { "benefit": "Neuroprotective and cognitive — traditionally used to sharpen memory and clarity (Medhya), and modern studies indicate antioxidant protection in neural tissue." }
+  ],
+
+  "therapeutic_uses": [
+    { "use": "Cough, cold, bronchial congestion, and allergic rhinitis — as fresh leaf juice, decoction, or steam inhalation with Tulsi leaves." },
+    { "use": "Low-grade and recurrent fevers, especially with Kapha-Vata symptoms — traditionally combined with ginger, black pepper, and honey." },
+    { "use": "Stress, anxiety, mental fatigue, and adaptive exhaustion — as a daily Rasayana tea or standardised extract under guidance." },
+    { "use": "Weak digestion, poor appetite, bloating, and Ama accumulation — taken before meals as fresh juice or churna with honey." },
+    { "use": "Recurrent respiratory infections and low immunity — daily use during seasonal changes, particularly in children and the elderly (with qualified advice)." },
+    { "use": "Skin conditions with Kapha-Vata involvement — fresh leaf paste applied externally for fungal infections, acne, and insect bites." },
+    { "use": "Oral health — chewing fresh leaves or using Tulsi decoction as a mouth rinse for gingivitis, halitosis, and mouth ulcers." },
+    { "use": "Supportive in metabolic syndrome — traditional use as Medohara, with emerging research on lipid and glucose modulation." }
+  ],
+
+  "safety_and_contraindications": [
+    { "safety": "This page is educational. Tulsi is a medicinal herb, not a general tonic for everyone — dose, duration and suitability should be decided by a qualified Ayurvedic or medical practitioner." },
+    { "safety": "Pregnancy and breastfeeding: traditionally used with caution during pregnancy because of its Ushna virya and potential uterine-stimulating effects at high doses. Culinary amounts are generally considered safe, but medicinal doses should be avoided unless prescribed by a qualified practitioner. Safety during breastfeeding is not well established; use with professional guidance." },
+    { "safety": "Hypoglycaemia and diabetes medicines: Tulsi may lower blood glucose. Monitor blood sugar closely if taking insulin, sulfonylureas, or other glucose-lowering agents, as dose adjustment may be needed." },
+    { "safety": "Anticoagulant and antiplatelet medicines: Tulsi may have mild blood-thinning effects. Use with caution and medical supervision if taking warfarin, aspirin, clopidogrel, or similar medicines." },
+    { "safety": "Thyroid: some animal studies suggest Tulsi may affect thyroid hormone levels. Use with caution in thyroid disorders and under supervision if on thyroid medication." },
+    { "safety": "Pitta aggravation: because of its heating virya and pungent vipaka, large or prolonged doses may aggravate Pitta — avoid in amlapitta (acid dyspepsia), heartburn, active inflammation, bleeding disorders, and heavy menstrual bleeding." },
+    { "safety": "Surgery: stop Tulsi supplements about two weeks before planned surgery due to potential effects on blood glucose and bleeding; inform the surgeon and anaesthetist." },
+    { "safety": "Fertility: high doses in animal studies have shown anti-fertility effects in males. Men trying to conceive should avoid high medicinal doses." },
+    { "safety": "Allergy: rare but possible. Stop if rash, itching, swelling, or breathing difficulty occurs. Cross-reactivity with other Lamiaceae (basil, mint, oregano, sage) is possible." },
+    { "safety": "Buy from a reputable source: commercial preparations vary widely in quality and may be adulterated. Keep the herb and all supplements out of reach of children." }
+  ],
+
+  "featured_remedies": [],
+
+  "associated_diseases": ["anidra-sleep-deprivation-insomnia"]
+}

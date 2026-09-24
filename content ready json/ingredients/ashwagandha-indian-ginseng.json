@@ -1,0 +1,80 @@
+{
+  "_comment": "Ashwagandha (root profile) ingredient import. Status is draft so nothing goes live by accident. The slashes in the requested slug are stripped because the importer requires slugs without slashes.",
+
+  "_relationships_note": "associated_diseases points at anidra-sleep-deprivation-insomnia, which already exists as a disease file in 'content ready json/diseases/' and already discusses Ashwagandha in its diet section. featured_remedies is left empty because no remedy file in 'content ready json/remedies/' uses Ashwagandha yet - add the slugs once such remedy files exist.",
+
+  "type": "ingredient",
+  "title": "Ashwagandha (Indian Ginseng)",
+  "slug": "ashwagandha-indian-ginseng",
+  "status": "draft",
+
+  "ingredient_cat": ["Root / Rhizome"],
+
+  "seo": {
+    "title": "Ashwagandha (Indian Ginseng) - Benefits, Uses, Dosage and Safety",
+    "description": "Ashwagandha (Withania somnifera) explained: Ayurvedic properties, traditional uses, benefits, dosage forms and the safety concerns to know before using it."
+  },
+
+  "botanical_name": "Withania somnifera",
+  "sanskrit_name": "Ashwagandha (अश्वगंधा); also called Varahakarni and Balada",
+  "hindi_name": "Ashwagandha / Asgand (अश्वगंधा)",
+  "short_description": "Ashwagandha is the root of Withania somnifera, a Rasayana (rejuvenating) herb traditionally used to support strength, stamina, restful sleep and a settled nervous system.",
+  "full_description": "<p>Ashwagandha is one of the most highly regarded Rasayana herbs of Ayurveda. The medicine is chiefly the dried root of <em>Withania somnifera</em>, a small grey-green shrub of the nightshade family that grows across India, and it is also found in the classical texts under the names Varahakarni, Balada and Hayagandha. The name itself is a description: <em>ashwa</em> means horse and <em>gandha</em> means smell, referring both to the smell of the fresh root and to the traditional claim that the herb gives the strength and vigour of a horse.</p><p>Charaka places Ashwagandha among the great rejuvenating drugs, and the later compendia describe it as Balya (strength promoting), Brimhana (nourishing), Vrishya, Nidrajanana (sleep promoting) and Vata-Kapha pacifying. It is a whole-body strengthening herb rather than a single-symptom medicine, which is why it appears in classical preparations such as Ashwagandhadi churna, Ashwagandha ghrita and Ashwagandharishta, and in dozens of Rasayana and Balya formulations for convalescence, fatigue and debility.</p><p>In practice, Ashwagandha is used where Vata is aggravated and the body has become dry, light and depleted - long-standing stress, overwork, poor sleep, recovery after illness, and the stiffness and aching of Vata-type joint and muscle complaints. Modern research has focused on the root as an adaptogen and on its withanolide constituents, and some evidence supports its use for stress, anxiety and sleep. Those findings are encouraging but not settled, and they sit alongside - not in place of - the traditional picture. This page describes the traditional and commonly reported uses of the herb; it is educational and not a prescription, and dose and suitability should be decided by a qualified practitioner, especially where thyroid, autoimmune, liver or pregnancy concerns exist.</p>",
+
+  "recommended_dosage": {
+    "churna": "3-6 g twice a day, traditionally taken with warm milk or warm water",
+    "decoction": "50-100 ml twice a day, prepared from about 5-10 g of root",
+    "extract": "300-500 mg of a standardised root extract daily, or as directed by a qualified practitioner"
+  },
+
+  "ayurvedic_properties": {
+    "rasa": [
+      { "value": "Tikta (bitter)" },
+      { "value": "Kashaya (astringent)" },
+      { "value": "Madhura (sweet)" }
+    ],
+    "guna": [
+      { "value": "Laghu (light)" },
+      { "value": "Snigdha (unctuous)" }
+    ],
+    "virya": "Ushna (heating)",
+    "vipaka": "Madhura (sweet)",
+    "dosha_effect": "Traditionally considered balancing for Vata and Kapha and strengthening for depleted tissue, with a Madhura vipaka that makes it nourishing rather than drying. Because its virya is heating, large or prolonged doses may aggravate Pitta and sharpen Ama, so it is usually taken with warm milk or ghee and is avoided where there is excess heat, active inflammation or a heavily coated tongue."
+  },
+
+  "key_benefits": [
+    { "benefit": "Traditionally taken to support strength, stamina and muscle mass during convalescence and general debility (Balya and Brimhana)." },
+    { "benefit": "Used as a Nidrajanana herb to settle the nervous system and support restful sleep, especially where Vata is aggravated and the mind is restless." },
+    { "benefit": "May help the body cope with everyday stress and mental fatigue; modern studies on standardised root extracts have reported reductions in perceived stress and in morning cortisol, though results are not uniform." },
+    { "benefit": "Traditionally used to support comfortable movement and ease in Vata-type joint and muscle stiffness and aching." },
+    { "benefit": "Regarded as a Rasayana that supports immunity, recovery after illness, and vitality in the elderly." },
+    { "benefit": "Traditionally described as Vrishya - supportive of reproductive and sexual health in suitable cases, and often taken with warm milk for this purpose." }
+  ],
+
+  "therapeutic_uses": [
+    { "use": "Stress, anxiety and mental fatigue, particularly when sleep is broken or the mind will not settle; traditionally a Rasayana rather than a sedative." },
+    { "use": "Chronic tiredness, low stamina and slow recovery after a long illness or surgery, taken under guidance and usually with milk." },
+    { "use": "Vata-type joint and muscle stiffness, aching and reduced mobility - classically as Ashwagandhadi churna, Ashwagandha ghrita or Ashwagandharishta, and as Ashwagandha taila for external use." },
+    { "use": "Dhatu-kshaya (depletion of tissue) and long-standing debility, where it is used in Balya and Rasayana therapy to rebuild strength gradually." },
+    { "use": "Reproductive and vitality support in suitable patients, where the classical texts describe it as Vrishya." },
+    { "use": "Certain nervous-system conditions grouped as Vata-vyadhi, and tremor, weakness or numbness of Vata origin - always under a qualified practitioner's supervision." },
+    { "use": "Traditional support for the elderly, for those with poor appetite and low weight, and for women recovering after childbirth - with the safety cautions below in mind." }
+  ],
+
+  "safety_and_contraindications": [
+    { "safety": "This page is educational. Ashwagandha is a medicinal herb, not a general tonic for everyone - dose, duration and suitability should be decided by a qualified Ayurvedic or medical practitioner." },
+    { "safety": "Thyroid: Ashwagandha may raise thyroid hormone levels. Avoid it in hyperthyroidism or Graves' disease, and use it only with medical supervision if you take thyroid medicines such as levothyroxine, since the dose may need review." },
+    { "safety": "Autoimmune conditions such as rheumatoid arthritis, lupus or Hashimoto's thyroiditis: traditionally used with caution and only under supervision, because the herb is considered immune-supporting." },
+    { "safety": "Pregnancy and breastfeeding: traditionally avoided during pregnancy because of its strong, heating and Vata-pacifying nature, and it is not recommended while breastfeeding for lack of safety data." },
+    { "safety": "Medicines: it may add to the drowsiness caused by sedatives and sleep medicines, may lower blood sugar along with diabetes medicines, and may affect blood pressure medicines and immunosuppressants. Tell your doctor and pharmacist that you are taking it." },
+    { "safety": "Liver: rare cases of liver injury have been reported with Ashwagandha supplements. Stop and seek medical help promptly for yellowing of the eyes or skin, dark urine, nausea, itching or unexplained tiredness, and avoid the herb altogether if you have liver disease." },
+    { "safety": "Excess heat or Ama: avoid during high Pitta states such as amlapitta (acid dyspepsia), heartburn, active inflammation, bleeding piles or bleeding disorders. Large doses may cause burning, nausea, loose motions or a heated feeling." },
+    { "safety": "Allergy: it belongs to the nightshade family. Stop if a rash, itching, swelling or breathing difficulty occurs, and avoid it if you react to other Solanaceae plants such as tomato, potato or chilli." },
+    { "safety": "Before planned surgery: stop about two weeks beforehand, because the herb may affect sedation, blood sugar and thyroid readings; tell the surgeon and anaesthetist that you have been taking it." },
+    { "safety": "Buy from a reputable source: commercial preparations vary widely in dose and purity and are often blended with other herbs. Keep the herb and all supplements out of the reach of children, and do not give it to children without qualified advice." }
+  ],
+
+  "featured_remedies": [],
+
+  "associated_diseases": ["anidra-sleep-deprivation-insomnia"]
+}

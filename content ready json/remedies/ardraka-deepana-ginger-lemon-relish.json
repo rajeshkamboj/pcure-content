@@ -1,0 +1,138 @@
+{
+  "_comment": "Ardraka (Ginger Agni Relish) remedy import. Status is draft so nothing goes live by accident. The leading slash in the requested slug is stripped because the importer requires slugs without slashes.",
+
+  "_relationships_note": "ingredients_list points at the ingredient slugs ginger, lemon and rock-salt. No ingredient JSON for these exists in 'content ready json/ingredients/' yet (only coriander-seeds and cumin-seeds), so import those three ingredient files first. Until then the importer reports them as unresolved relationships, stores no link for those rows and prints them in the unresolved list at the end - it is not a fatal error.",
+
+  "type": "remedy",
+  "title": "Ginger Agni Relish (Ardraka)",
+  "slug": "ardraka-deepana-ginger-lemon-relish",
+  "status": "draft",
+
+  "dosha": ["Vata", "Kapha"],
+
+  "seo": {
+    "title": "Ginger Agni Relish (Ardraka) - Recipe, Benefits and Dosage",
+    "description": "A traditional fresh ginger and lemon relish taken before meals to kindle Agni and support appetite, with its recipe, dosage, traditional context and safety notes."
+  },
+
+  "hindi_name": "Adrak Nimbu Namak (अदरक नींबू नमक)",
+  "purpose": "A fresh, sharp relish of grated ginger, lemon juice and rock salt, taken a few minutes before a meal to awaken Agni, sharpen appetite and lift the heaviness left by slow, sluggish digestion.",
+
+  "target_condition": "Agnimandya (weak digestive fire) with poor appetite, a coated tongue, bland taste in the mouth, and heaviness or dullness after eating; traditionally taken as a Ruchikara (appetiser) at the start of a meal when Kapha is high.",
+
+  "difficulty": "Very Easy",
+  "prep_time": "5 minutes",
+  "dosage": "1/2 to 1 teaspoon (about 2-5 g)",
+  "timing": "5-10 minutes before lunch and before dinner",
+  "frequency": "Once or twice a day, before the main meals",
+  "anupana": "Taken as it is from the spoon, or with a little warm water; traditionally taken at the start of the meal rather than after it",
+  "duration": "Take daily for 2-4 weeks and then reassess; for longer or repeated use, take qualified advice",
+
+  "traditional_context": "Fresh ginger (Ardraka) holds a high place in the Ayurvedic materia medica. Bhavaprakasha counts it among the great medicines and describes it as Deepana and Pachana - kindling Agni and digesting Ama - as well as Ruchya (improving taste and appetite), Hridya and reducing to Kapha and Vata. Its dried form, Shunthi, carries the same reputation in a sharper, drier way, while fresh ginger taken in excess is understood to heat the blood and aggravate Pitta. This relish is not a single classical formulation but the household form of an old practice: taking a small quantity of Ushna (warming), Amla (sour) and Lavana (salty) substances before Bhojana to wake the digestive fire. Sour juices and Saindhava lavana are traditionally praised for stimulating appetite without the harshness of sharper salts, and Charaka's instruction to eat only when the previous meal has been digested and true hunger is present gives the custom its reasoning. Taken in a spoonful before lunch and dinner, it follows the Ayurvedic principle that weak digestion is treated first by kindling Agni (Agni-deepana) rather than by loading the system with heavy or nourishing food.",
+
+  "featured": false,
+
+  "ingredients_list": [
+    {
+      "ingredient": "ginger",
+      "quantity": "1 tbsp (about 12 g), finely grated",
+      "notes": "Ardraka - fresh ginger root. Dried ginger (Shunthi) also works but is sharper and more drying, so use about half the amount."
+    },
+    {
+      "ingredient": "lemon",
+      "quantity": "2 tsp (about 10 ml) freshly squeezed juice",
+      "notes": "Nimbuka / Jambira. Provides the Amla (sour) taste that sharpens appetite and makes the relish palatable; keep it sharp rather than sweet."
+    },
+    {
+      "ingredient": "rock-salt",
+      "quantity": "1/4 tsp (about 1 g)",
+      "notes": "Saindhava lavana (sendha namak / pink rock salt). Traditionally the salt favoured among the Lavanas for being the least aggravating and least heating."
+    }
+  ],
+
+  "preparation": [
+    {
+      "step": "Wash and peel the fresh ginger, then grate it very finely - about 1 tablespoon. Grate it close to serving time so the aroma and pungency stay intact."
+    },
+    {
+      "step": "Squeeze the lemon and strain out the pips, keeping about 2 teaspoons of juice. A little pulp is fine."
+    },
+    {
+      "step": "Mix the grated ginger and the lemon juice together in a small bowl."
+    },
+    {
+      "step": "Add 1/4 teaspoon of rock salt and stir well. Taste it: the relish should be sharp, sour and lightly salty rather than fiery hot. Add a few more drops of lemon juice or a pinch more salt to balance it."
+    },
+    {
+      "step": "Let it stand for 2-3 minutes so that the lemon juice draws the pungency out of the ginger."
+    },
+    {
+      "step": "Take 1/2 to 1 teaspoon from a small spoon about 5-10 minutes before lunch and before dinner, then eat the meal. Make only as much as is needed for a day or two and keep it covered in the refrigerator; freshly made relish tastes strongest."
+    },
+    {
+      "step": "Optional variations: a pinch of roasted cumin powder or coriander powder may be added for taste. Some households use a few drops of lime water in place of the rock salt when the salt intake has to be kept very low, and black salt or sea salt can stand in for rock salt, though both are considered sharper and more heating."
+    }
+  ],
+
+  "precautions": [
+    {
+      "precaution": "This page is educational and is not a diagnosis or a substitute for personalised medical or Ayurvedic care."
+    },
+    {
+      "precaution": "Ginger, lemon and salt together are warming and sour. Begin with 1/4 teaspoon; if it causes burning in the stomach, sour belching, heartburn or mouth ulcers, reduce the amount or stop."
+    },
+    {
+      "precaution": "Rock salt is still salt. Anyone on a salt-restricted diet - high blood pressure, heart failure, kidney disease, swelling or oedema - should not take this relish regularly unless a doctor approves it."
+    },
+    {
+      "precaution": "Lemon juice is acidic. Rinse the mouth with plain water after taking the relish and wait about half an hour before brushing the teeth, to protect the enamel."
+    },
+    {
+      "precaution": "Ginger taken regularly in medicinal amounts may add to the effect of blood-thinning medicines such as warfarin, aspirin or clopidogrel, and may lower blood sugar. Seek qualified advice first if you take these or diabetes medicines."
+    },
+    {
+      "precaution": "Avoid taking the relish on a completely empty stomach if you have a sensitive stomach or a history of gastritis, and avoid taking it late at night."
+    },
+    {
+      "precaution": "Stop and seek medical advice if burning, nausea, loose motions or abdominal pain develops, or if poor appetite, indigestion or weight loss continues for more than two weeks - these need proper assessment."
+    },
+    {
+      "precaution": "Not intended for infants or young children; keep the relish, lemon juice and any herbal preparation out of their reach."
+    }
+  ],
+
+  "who_should_avoid": [
+    {
+      "warning": "Active acid peptic disease, GERD, gastritis, mouth ulcers or a history of peptic ulcer - the sharp, sour and salty combination can worsen the burning."
+    },
+    {
+      "warning": "High Pitta states generally, including amlapitta (acid dyspepsia), bleeding piles, nosebleeds and any condition of excess heat or active bleeding."
+    },
+    {
+      "warning": "Anyone with a bleeding disorder, or taking anticoagulant or antiplatelet medicines, should avoid regular use and ask a doctor first."
+    },
+    {
+      "warning": "Salt-restricted conditions: uncontrolled high blood pressure, heart failure, chronic kidney disease, oedema and swelling in pregnancy."
+    },
+    {
+      "warning": "Pregnancy and breastfeeding: culinary amounts of ginger are generally considered acceptable, but this relish is not meant for regular medicinal use during pregnancy, and salt and sour intake should follow the advice of the treating doctor. Avoid it altogether with threatened miscarriage or a history of bleeding in pregnancy."
+    },
+    {
+      "warning": "Children under about twelve, and anyone who cannot judge stomach burning or discomfort - a milder cumin, coriander or fennel based digestive is more suitable for them."
+    },
+    {
+      "warning": "Before planned surgery: ginger may affect bleeding, so stop the relish about two weeks beforehand if the surgeon or anaesthetist advises it."
+    }
+  ],
+
+  "tags": [
+    { "tag": "Agni kindling" },
+    { "tag": "Appetite support" },
+    { "tag": "Before-meal relish" },
+    { "tag": "Deepana-Pachana" },
+    { "tag": "Kapha-Vata balance" },
+    { "tag": "Weak digestion" },
+    { "tag": "No cooking" },
+    { "tag": "Kitchen remedy" }
+  ]
+}

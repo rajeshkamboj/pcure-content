@@ -1,0 +1,184 @@
+{
+  "_comment": "Anidra (sleep deprivation / insomnia) disease import. Status is draft so nothing goes live by accident.",
+
+  "type": "disease",
+  "title": "Anidra (Sleep Deprivation and Insomnia)",
+  "slug": "anidra-sleep-deprivation-insomnia",
+  "status": "draft",
+
+  "dosha": ["Vata", "Pitta"],
+  "disease_cat": ["Mental Health"],
+
+  "seo": {
+    "title": "Anidra (Insomnia and Sleep Deprivation) - Ayurvedic Causes, Symptoms and Care",
+    "description": "Learn how Ayurveda understands insomnia and sleep deprivation as Anidra or Nidranasha, including causes, dosha imbalance, symptoms, diet, lifestyle support and when to seek medical care."
+  },
+
+  "sanskrit_name": "Anidra / Nidranasha (अनिद्रा / निद्रानाश)",
+  "summary": "Anidra means the loss of sleep, also called Nidranasha or Aswapna. In Ayurveda it is understood as a Vata-Pitta predominant disturbance in which aggravated Prana Vayu and disturbed Manas (mind) overcome the natural Kapha-Tamas quality of sleep, producing difficulty falling asleep, broken sleep or early waking with daytime fatigue, heaviness and irritability.",
+  "overview": "<p>Sleep is counted among the three great desires of life in Ayurveda, alongside food and the urge to reproduce. Charaka describes Nidra as one of the three pillars (<em>Trayopastambha</em>) that sustain a healthy body, and its loss is treated as a genuine disorder rather than a bad habit. Ayurveda calls it <em>Anidra</em> or <em>Nidranasha</em> — the absence of sleep — and it corresponds closely to what modern medicine calls insomnia and chronic sleep deprivation.</p><p>Classical texts describe Nidra as a natural state produced by Kapha and Tamas, in which the senses withdraw from their objects and the mind rests. When Kapha is depleted, when Vata rises and dries the channels, when Pitta keeps the mind sharp and hot, or when the Manas is repeatedly agitated by worry, grief and anger, the natural Kapha-Tamas quality of sleep is overwhelmed. The result is a mind that will not settle and a body that does not get its nightly repair.</p><p>Ayurvedic care therefore works on two levels at once: the physical (<em>Sharirika</em>), by calming aggravated Vata and Pitta and clearing Ama through diet, oil therapy and simple routines; and the mental (<em>Manasika</em>), by steadying the mind through breath work, meditation, aromatherapy and a disciplined sleep schedule. It also looks for the causes that are keeping sleep away — caffeine, screens, shift work, pain, reflux or unexpressed anxiety — because no amount of oil will replace a cause that is left in place.</p><p>Sleeplessness is not a harmless inconvenience. A few nights may pass with fatigue and heaviness, but persistent Anidra can bring loss of weight, low mood, poor memory, reduced immunity and worsened control of existing illness. Loud snoring with breathing pauses, falling asleep while driving, restless legs, or sleeplessness that comes with depression, fever or unexplained weight loss all need proper medical assessment; Ayurvedic measures support but do not replace that care.</p>",
+  "featured": false,
+
+  "home_remedies": [],
+  "key_ingredients": [],
+
+  "ayurvedic_perspective": {
+    "samprapti": "The causes of Anidra first aggravate Vata — chiefly Prana Vayu, which governs the head, senses and the entry of impressions into the mind — and disturb the natural Kapha-Tamas basis of sleep. Suppression of the sleep urge (Nidra vega dharana) is a direct cause: the resisted urge pushes Vata upward and outward, leaving the senses active when they should withdraw. Irregular and excessive waking (Ratri jagarana), dry and sharp food, overexertion, elimination therapies, bleeding and chronic pain further deplete Kapha and dry the channels. Where Pitta is involved, sharp, hot and light qualities keep the mind alert, hot and irritable. When Agni is weak, Ama forms, blocks the channels and combines with disturbed Prana Vayu to obstruct the free movement of the mind. In all cases the seat of damage is Manovaha srotas — the channels that carry thought and feeling — supported by Majja dhatu, the tissue in which Manas resides. Because sleep depends on a calm Manas and an unagitated Vata, Anidra is often as much a Sattva-Rajas-Tamas issue as a dosha issue, and treatment addresses both.",
+    "dosha_imbalance": "Vata-Pitta pradhana; Vata (Prana Vayu) is the primary mover, Pitta adds heat, alertness and irritability, and Kapha-Tamas depletion underlies the loss of the sleep state itself. Ama and Manasika Rajas-Tamas are commonly involved",
+    "nidana": [
+      { "cause": "Ratri jagarana — staying awake late into the night, irregular bedtimes, shift work and jet lag (circadian disruption)" },
+      { "cause": "Suppression of the urge to sleep (Nidra vega dharana), which is classically counted among the urges that should never be held back" },
+      { "cause": "Chinta, Shoka, Bhaya and Krodha — excessive worry, grief, fear, anxiety and anger agitating the Manas" },
+      { "cause": "Vata-Pitta aggravating diet: dry, light, sharp, pungent, very hot or very cold food, long fasting, and excess tea, coffee or alcohol" },
+      { "cause": "Ativyayama and Ativyavaya — excessive physical or mental exertion, overwork and prolonged screen or study work" },
+      { "cause": "Excessive elimination (Atisara, Vamana, Virechana, Raktamokshana), blood loss, surgery, injury or chronic pain, which deplete Kapha and dry the body" },
+      { "cause": "Daytime sleeping (Divasvapna) and sleeping at wrong hours, which disturb the natural Kapha-Vata rhythm of day and night" },
+      { "cause": "Mandagni and Ama from long-standing indigestion, producing heaviness, bloating and a restless, obstructed mind" },
+      { "cause": "Aging (Vata kaala), menopause and other hormonal transitions, when Vata naturally rises and Kapha declines" },
+      { "cause": "Certain medicines and stimulants — decongestants, some steroids, bronchodilators, nicotine and late caffeine" }
+    ],
+    "dhatus_affected": [
+      { "dhatu": "Majja dhatu — the tissue in which Manas resides; the primary seat of Anidra, along with the nervous tissue it represents" },
+      { "dhatu": "Rasa dhatu — first tissue affected; impaired Rasa produces dryness, restlessness, low mood and reduced nourishment of the mind" },
+      { "dhatu": "Rakta dhatu — involved when Pitta and heat are prominent, with burning, irritability and a hot, alert mind" },
+      { "dhatu": "Manovaha srotas and Pranavaha srotas — channels of the mind and of breath, which carry Prana Vayu to the head and senses" }
+    ]
+  },
+
+  "symptoms": {
+    "classical": [
+      { "symptom": "Nidranasha or Aswapna — inability to fall asleep at all, or to stay asleep through the night" },
+      { "symptom": "Alpa nidrata — sleep that is short, light, easily broken and unrefreshing" },
+      { "symptom": "Angamarda and Gatra-sada — body ache and heaviness on waking, without a sense of rest" },
+      { "symptom": "Shirogurutva, Shiro-ruja and Bhrama — heaviness of the head, headache and giddiness" },
+      { "symptom": "Dourbalya and Bala-kshaya — weakness, reduced stamina and loss of body mass over time" },
+      { "symptom": "Daurmanasya and Manodainya — low mood, sadness, dullness and loss of enthusiasm" },
+      { "symptom": "Krodha and Shabda-asahishnuta — irritability and intolerance to noise, light and ordinary sensory input" },
+      { "symptom": "Smriti-khaya and Buddhi-gurutva — poor memory, slow comprehension and reduced concentration" },
+      { "symptom": "Aruchi and Agnimandya — loss of appetite and weak digestion, often with Ama and constipation (Vibandha)" },
+      { "symptom": "Divasvapna-nasha or Tandra — an overpowering urge to doze during the day, with drowsiness at unsuitable hours" }
+    ],
+    "modern": [
+      { "symptom": "Difficulty falling asleep at bedtime (initial insomnia), waking repeatedly through the night (maintenance insomnia), or waking far too early in the morning" },
+      { "symptom": "Sleep that feels unrefreshing even when a reasonable number of hours is spent in bed" },
+      { "symptom": "Daytime fatigue, sleepiness, low energy and a constant need for tea or coffee to function" },
+      { "symptom": "Poor concentration, forgetfulness, slower reaction time and reduced work or study performance" },
+      { "symptom": "Irritability, low mood, anxiety, racing thoughts at night and increased emotional reactivity" },
+      { "symptom": "Tension headache, dry mouth, eye strain and heaviness in the morning" },
+      { "symptom": "A growing reliance on screens late at night, alcohol as a sleep aid, or over-the-counter sleeping tablets" },
+      { "symptom": "Digestive upset, appetite changes and reduced immunity with frequent colds during long spells of poor sleep" }
+    ],
+    "warning_signs": [
+      { "warning": "Loud snoring with witnessed pauses in breathing, gasping or choking during sleep (possible obstructive sleep apnoea)" },
+      { "warning": "Falling asleep unintentionally during the day, while reading, in conversation or while driving" },
+      { "warning": "Persistent low mood, hopelessness, panic on waking, or any thoughts of self-harm — seek help immediately" },
+      { "warning": "Sleeplessness with chest pain, palpitations, breathlessness at night, night sweats or unexplained weight loss" },
+      { "warning": "Insomnia lasting longer than three months, or sleeplessness with fever, severe pain or swelling in the legs and restless urges to move them" },
+      { "warning": "Symptoms in older adults, in pregnancy, in infants and children, or in anyone with heart, lung, thyroid or psychiatric illness" }
+    ]
+  },
+
+  "causes": [
+    { "cause": "Stress, anxiety, depression and chronic worry — the most common drivers of persistent insomnia" },
+    { "cause": "Poor sleep hygiene: irregular bedtimes, bright screens late at night, a noisy or hot bedroom, and long or late naps" },
+    { "cause": "Stimulants and alcohol: coffee or strong tea after midday, energy drinks, nicotine, and alcohol used as a sleep aid (which fragments sleep later in the night)" },
+    { "cause": "Circadian disruption from shift work, frequent travel across time zones, and a schedule that does not match daylight" },
+    { "cause": "Medical conditions that disturb sleep: chronic pain, acid reflux, asthma, thyroid disorders, heart failure, prostate or bladder problems, and hormonal changes around menopause" },
+    { "cause": "Primary sleep disorders such as obstructive sleep apnoea, restless legs syndrome and periodic limb movements" },
+    { "cause": "Medicines and substances — decongestants, some steroids, bronchodilators and certain antidepressants can cause wakefulness" },
+    { "cause": "Ayurvedic view: suppression of the sleep urge, excessive elimination or blood loss, long fasting, and weak digestion with Ama that disturbs Prana Vayu and the Manas" }
+  ],
+
+  "diet_and_lifestyle": {
+    "pathya": [
+      { "item": "Warm milk in the evening, ideally with a small pinch of nutmeg (javitri) or a teaspoon of ghee — nutmeg only in culinary amounts, never in large doses" },
+      { "item": "A warm, sweet, unctuous and easily digestible dinner taken two to three hours before bedtime: rice with milk, khichdi, moong dal soup, or a light vegetable preparation with ghee" },
+      { "item": "Vata-Pitta pacifying foods: ghee, milk, dates, almonds soaked and peeled, raisins, sweet potatoes, cooked pumpkin, and warm cereals" },
+      { "item": "Warm water or a mild infusion of chamomile, fennel, or a small quantity of brahmi or jatamansi taken under guidance through the day and evening" },
+      { "item": "A teaspoon of Ashwagandha or Shatavari in warm milk at night, when a qualified practitioner advises it and there is no thyroid, autoimmune or pregnancy concern" },
+      { "item": "Abhyanga — a warm sesame oil or Ksheerabala taila massage in the evening, with special attention to the soles of the feet (Padabhyanga) and the scalp (Shiro abhyanga)" },
+      { "item": "A warm bath or a warm foot soak before bedtime, followed by a drop of warm oil in each nostril (pratimarsha nasya with Anu taila) only when advised" },
+      { "item": "Sweet, heavy and grounding tastes (Madhura and Snigdha) in the evening meal, which support the Kapha quality that sleep depends on" }
+    ],
+    "apathya": [
+      { "item": "Coffee, strong tea, energy drinks and chocolate from midday onwards, and any caffeine after the early afternoon" },
+      { "item": "Alcohol taken as a sleep aid — it may shorten the time to fall asleep but fragments sleep and worsens early-morning waking" },
+      { "item": "Late, heavy, oily, fried, spicy or very light and dry meals; eating immediately before bed; and going to bed hungry after long fasting" },
+      { "item": "Bright screens, television in the bedroom, and blue light during the last hour before sleep" },
+      { "item": "Divasvapna — long daytime sleeping, which disturbs the night rhythm (a short nap before 3 pm may be permitted for Vata types, when unavoidable)" },
+      { "item": "Suppression of sleep at the natural hour, and staying awake past midnight (Ratri jagarana)" },
+      { "item": "Excessive physical or mental exertion, intense exercise, work or heated arguments close to bedtime" },
+      { "item": "Excessive raw, cold, dry and pungent food, and very long gaps between meals, which aggravate Vata" }
+    ],
+    "lifestyle_tips": [
+      { "tip": "Keep a fixed sleep and wake time, every day of the week including weekends, so the body's rhythm becomes stable again." },
+      { "tip": "Aim to be in bed before about 10:30 pm and to rise around the Brahma muhurta (roughly 4:30–5:30 am); the Kapha hours of early night naturally favour sleep." },
+      { "tip": "Wind down for 45–60 minutes before bed: dim the lights, stop screens and work, listen to something calm, read lightly, or practise a body-scan relaxation." },
+      { "tip": "Keep the bedroom dark, quiet and comfortably warm but not hot; use the bed only for sleeping, not for working, eating or scrolling." },
+      { "tip": "If sleep does not come within about twenty minutes, get up, sit in dim light with something calm, and return when sleepy — do not lie awake watching the clock." },
+      { "tip": "Write down worries, tasks and tomorrow's list before bed so the mind can set them down." },
+      { "tip": "Exercise during the day and get morning daylight, but avoid vigorous exercise within three hours of bedtime." },
+      { "tip": "Eat the main meal at midday where possible, keep the evening meal light, and finish it at least two to three hours before sleep." },
+      { "tip": "For long-standing or severe insomnia, structured psychological therapy for sleep (such as CBT-I) is a first-line medical treatment and works well alongside Ayurvedic routine." }
+    ],
+    "yoga_pranayama": [
+      { "practice": "Yoga Nidra or a guided body-scan relaxation for 15–20 minutes before sleep" },
+      { "practice": "Anulom Vilom (alternate-nostril breathing) for 5–10 minutes in a slow, comfortable rhythm" },
+      { "practice": "Bhramari (humming-bee breath) with the ears gently closed, which soothes the mind and reduces mental agitation" },
+      { "practice": "Chandra Bhedana (left-nostril breathing) — cooling and calming; helpful when there is heat, irritability or a racing mind" },
+      { "practice": "Shavasana (corpse pose) for 5–10 minutes, or Viparita Karani (legs up the wall) to settle the body after a long day" },
+      { "practice": "Gentle forward folds and grounding postures — Shashankasana (child pose), Supta Baddha Konasana (reclining bound angle), Paschimottanasana and a supported Matsyasana" },
+      { "practice": "Simple seated meditation or mantra repetition (such as So-Ham or a chosen mantra) morning and evening to steady Sattva" },
+      { "practice": "Avoid Bhastrika, Kapalabhati and vigorous backbends in the evening, as they are activating rather than settling" }
+    ]
+  },
+
+  "precautions": [
+    { "precaution": "This page is educational and is not a diagnosis or a substitute for personalised medical or Ayurvedic care." },
+    { "precaution": "Do not drive, operate machinery or make important decisions when sleepy; unintentional daytime sleepiness is a serious safety risk." },
+    { "precaution": "Do not start, stop or change prescribed sleep or psychiatric medicines on your own — abrupt withdrawal can be dangerous." },
+    { "precaution": "Do not use alcohol, sedating antihistamines or borrowed sleeping tablets as a routine remedy for sleep." },
+    { "precaution": "Nutmeg should be used only in culinary amounts; large doses are toxic. Keep it and all herbal preparations out of reach of children." },
+    { "precaution": "Herbs such as Ashwagandha may not be suitable in pregnancy, in thyroid or autoimmune conditions, or with liver disease — seek qualified advice before using them." },
+    { "precaution": "Warm oil therapies, Shirodhara and Nasya should be done by or under the guidance of a qualified practitioner, especially in pregnancy, high blood pressure, glaucoma or skin disease." },
+    { "precaution": "Insomnia lasting more than three months, or sleeplessness with snoring and breathing pauses, depression, weight loss, fever or pain, needs proper medical assessment." },
+    { "precaution": "Older adults should take particular care: sleep medicines increase the risk of falls and confusion." }
+  ],
+
+  "faqs": [
+    {
+      "question": "What is Anidra in Ayurveda?",
+      "answer": "Anidra, also called Nidranasha or Aswapna, is the loss of sleep. Ayurveda treats it as a genuine disorder affecting both the body and the mind, in which aggravated Vata and Pitta and an agitated Manas overcome the natural Kapha-Tamas quality on which sleep depends. It corresponds closely to what modern medicine calls insomnia and chronic sleep deprivation."
+    },
+    {
+      "question": "Which dosha is responsible for Anidra?",
+      "answer": "Vata is primary, especially Prana Vayu, which governs the head, the senses and the entry of impressions into the mind. Pitta commonly joins, adding heat, alertness and irritability. The loss of sleep itself reflects depleted Kapha and Tamas, so treatment both calms Vata-Pitta and restores a steady, grounded quality to the mind."
+    },
+    {
+      "question": "Is Anidra the same as insomnia?",
+      "answer": "The two overlap closely. Anidra covers difficulty falling asleep, waking repeatedly, early-morning waking and sleep that does not refresh — the same picture modern medicine describes as insomnia. Ayurveda adds a detailed account of the causes, the dosha pattern and the mental factors involved, and treats the sleep-wake rhythm as something that must be restored, not merely sedated."
+    },
+    {
+      "question": "What home supports are traditionally used for Anidra?",
+      "answer": "Common traditional supports include warm milk with a small pinch of nutmeg or a little ghee at night, warm sesame-oil massage of the scalp and soles of the feet, a warm foot soak, gentle Anulom Vilom or Bhramari breathing, Yoga Nidra, and a fixed sleep schedule. These suit mild, recent sleeplessness; persistent insomnia needs proper assessment."
+    },
+    {
+      "question": "What should I eat and avoid to sleep better?",
+      "answer": "Favour a warm, light, unctuous dinner two to three hours before bed, with ghee, milk, dates or simple khichdi. Avoid caffeine after midday, alcohol as a sleep aid, late heavy or spicy meals, and long night-time fasting. From the Ayurvedic view, the evening meal should be sweet and grounding rather than dry, sharp and stimulating."
+    },
+    {
+      "question": "When should I see a doctor instead of relying on home care?",
+      "answer": "See a doctor for loud snoring with breathing pauses, falling asleep unintentionally during the day, restless legs, insomnia lasting more than three months, or sleeplessness with low mood, hopelessness, weight loss, fever, chest pain or palpitations. Structured therapy for insomnia such as CBT-I is a first-line medical treatment, and Ayurvedic routine and diet can support it rather than replace it."
+    }
+  ],
+
+  "references": [
+    { "title": "Charaka Samhita, Sutra Sthana, Chapter 11 (Tistraishaniya Adhyaya) — the three desires of food, sleep and continence, and the suppression of urges", "source": "Charaka Samhita", "year": "Classical" },
+    { "title": "Charaka Samhita, Sutra Sthana, Chapter 21 (Ashtauninditiya Adhyaya) — discussion of Nidra, its qualities and the effects of its loss", "source": "Charaka Samhita", "year": "Classical" },
+    { "title": "Sushruta Samhita, Sharira Sthana — discussion of Nidra, its origin and its disorders", "source": "Sushruta Samhita", "year": "Classical" },
+    { "title": "Ashtanga Hridaya, Sutra Sthana, Chapter 2 (Dinacharya) — Ratri jagarana and the daily routine that protects sleep", "source": "Ashtanga Hridaya (Vagbhata)", "year": "Classical" },
+    { "title": "Ashtanga Hridaya, Sutra Sthana, Chapter 7 — Nidra, its types and its regulation", "source": "Ashtanga Hridaya (Vagbhata)", "year": "Classical" },
+    { "title": "Yogaratnakara, Nidranasha Prakarana — traditional management of loss of sleep", "source": "Yogaratnakara", "year": "Classical" },
+    { "title": "Bhavaprakasha, Purva Khanda — Nidra and its disorders", "source": "Bhavaprakasha", "year": "Classical" }
+  ]
+}

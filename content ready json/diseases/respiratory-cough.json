@@ -1,0 +1,157 @@
+{
+  "_comment": "Respiratory Cough (Kasa-Pratishyaya) disease import. Status is draft so nothing goes live by accident.",
+
+  "type": "disease",
+  "title": "Respiratory Cough",
+  "slug": "kasa-pratishyaya-respiratory-congestion",
+  "status": "draft",
+
+  "dosha": ["Kapha", "Vata"],
+  "disease_cat": ["Respiratory"],
+
+  "seo": {
+    "title": "Respiratory Cough (Kasa-Pratishyaya) - Ayurvedic Causes, Symptoms and Care",
+    "description": "Learn how Ayurveda understands respiratory cough and congestion as Kasa-Pratishyaya, including causes, symptoms, diet, lifestyle support and when to seek medical care."
+  },
+
+  "sanskrit_name": "Kasa-Pratishyaya (कास-प्रतिश्याय)",
+  "summary": "Respiratory cough in Ayurveda is understood mainly as Kasa (cough) often linked with Pratishyaya (nasal congestion and rhinitis). It is typically a Kapha-Vata condition of the Pranavaha srotas, presenting as dry or productive cough with blocked or runny nose, throat irritation and chest heaviness.",
+  "overview": "<p>Respiratory cough is one of the most common upper-airway complaints. In Ayurveda it is described as <em>Kasa</em> — a forceful expulsion of air through the mouth that produces a characteristic sound — and it frequently appears together with <em>Pratishyaya</em>, the classical presentation of nasal congestion, sneezing and discharge. Together they correspond closely to cough with cold, rhinitis and respiratory congestion in modern terms.</p><p>Classical texts treat Kasa both as a symptom of other diseases and as an independent condition with its own causes and pathogenesis. Charaka Samhita dedicates Chikitsa Sthana chapter 18 to Kasa, while Pratishyaya is discussed in detail in Sushruta Samhita (Uttara Tantra) and Ashtanga Hridaya. The usual pattern is aggravation of Kapha with disturbed Vata (especially Prana and Udana Vayu) in the channels of breath, often after cold exposure, heavy or incompatible food, dust, smoke or seasonal change.</p><p>Ayurvedic care emphasises removing the cause (<em>nidana parivarjana</em>), supporting digestion so that Ama does not keep feeding mucus, clearing the nasal and chest channels, and soothing the throat. Warm, light food, steam, rest and simple kitchen herbs are the first supports. Persistent cough, breathlessness, high fever, chest pain or blood in sputum need prompt medical assessment and are not managed with home care alone.</p>",
+  "featured": false,
+
+  "home_remedies": [],
+  "key_ingredients": [],
+
+  "ayurvedic_perspective": {
+    "samprapti": "Causative factors aggravate Kapha and disturb Vata, especially Prana and Udana Vayu. Impaired Agni allows Ama to form and mix with Kapha, producing sticky mucus. This obstructs Pranavaha srotas (the channels of breath) and the nasal passages (Ghrana moola). Vata, blocked in its normal downward and outward movement, is forced upward through the chest, throat and head and expelled through the mouth as cough (Kasa). In the nose the same obstruction appears as Pratishyaya — sneezing, blockage and discharge. If Kapha predominates the cough is productive and heavy; if Vata predominates it is dry, spasmodic and worse in cold, dry air; if Pitta joins there may be burning in the throat and yellowish sputum.",
+    "dosha_imbalance": "Kapha-Vata pradhana; Pitta may join when there is inflammation, burning or fever",
+    "nidana": [
+      { "cause": "Exposure to cold wind, sudden weather change, air-conditioning or damp weather" },
+      { "cause": "Dust, smoke, pollen, pollution and other inhaled irritants" },
+      { "cause": "Cold, heavy, oily, sweet or incompatible foods (Viruddha Ahara), including excess curd, ice cream and refrigerated drinks" },
+      { "cause": "Suppression of natural urges such as sneezing, coughing, thirst or sleep (Vega dharana)" },
+      { "cause": "Daytime sleep, late nights, inadequate rest and irregular daily routine" },
+      { "cause": "Weak digestive fire (Mandagni) leading to Ama, which feeds excess Kapha in the respiratory tract" }
+    ],
+    "dhatus_affected": [
+      { "dhatu": "Rasa dhatu — first tissue involved; impaired Rasa produces heaviness, mucus and reduced appetite" },
+      { "dhatu": "Rakta dhatu — may be involved when there is inflammation, burning or blood-tinged sputum" },
+      { "dhatu": "Mamsa dhatu — chest and throat tissues in lingering or deeper cough" },
+      { "dhatu": "Pranavaha srotas — the primary channels of respiration, along with Annavaha srotas when digestion is disturbed" }
+    ]
+  },
+
+  "symptoms": {
+    "classical": [
+      { "symptom": "Kasa — cough with a characteristic sound, dry or with sputum depending on the dosha" },
+      { "symptom": "Kshavathu — repeated sneezing" },
+      { "symptom": "Nasa-avarodha and Nasa-srava — nasal blockage and watery or thick nasal discharge" },
+      { "symptom": "Shiro-guruta and Shirahshoola — heaviness of the head and headache" },
+      { "symptom": "Galashosha or Kanthadaha — dryness or burning in the throat" },
+      { "symptom": "Swarabheda — hoarseness of voice" },
+      { "symptom": "Aruchi and Angamarda — reduced appetite and body ache" },
+      { "symptom": "Urah-shoola or Urah-gurutva — chest discomfort or heaviness" }
+    ],
+    "modern": [
+      { "symptom": "Dry, hacking cough or a productive cough with clear, white or yellowish mucus" },
+      { "symptom": "Blocked or runny nose, post-nasal drip and frequent sneezing" },
+      { "symptom": "Sore, scratchy or irritated throat" },
+      { "symptom": "Mild fever, fatigue and a feeling of heaviness in the head or chest" },
+      { "symptom": "Watery or itchy eyes, especially with allergic or seasonal rhinitis" },
+      { "symptom": "Worse symptoms at night, in cold air, or after dairy, fried food or cold drinks" }
+    ],
+    "warning_signs": [
+      { "warning": "Shortness of breath, wheezing, or difficulty breathing at rest" },
+      { "warning": "Coughing up blood or rust-coloured sputum" },
+      { "warning": "High fever, severe chest pain, confusion or bluish lips" },
+      { "warning": "Cough lasting more than two to three weeks, or a cough that keeps returning" },
+      { "warning": "Symptoms in infants, older adults, pregnant people, or anyone with asthma, heart or lung disease" }
+    ]
+  },
+
+  "causes": [
+    { "cause": "Seasonal colds, viral upper-respiratory infections and lingering post-viral cough" },
+    { "cause": "Allergic rhinitis, sinus congestion and post-nasal drip irritating the throat" },
+    { "cause": "Exposure to cold air, dust, smoke, pollution or occupational irritants" },
+    { "cause": "Kapha-aggravating diet and weak digestion, which increase mucus in the airways" },
+    { "cause": "Irregular sleep, daytime napping and suppression of sneezing or coughing" },
+    { "cause": "In some people, reflux, chronic sinusitis or an unresolved Pratishyaya that progresses into Kasa" }
+  ],
+
+  "diet_and_lifestyle": {
+    "pathya": [
+      { "item": "Warm water through the day; ginger, tulsi or cinnamon infusions taken warm" },
+      { "item": "Light, freshly cooked food such as moong dal soup, rice gruel, khichdi and vegetable soups" },
+      { "item": "Spices that kindle Agni and help clear Kapha: dry ginger, black pepper, turmeric, garlic and a pinch of long pepper, as tolerated" },
+      { "item": "Honey in small amounts once food or tea has cooled (never heated honey); traditionally used as anupana for cough" },
+      { "item": "Old rice, barley, horse gram and other light grains classically listed as pathya in Kasa" },
+      { "item": "Warm salt-water gargles and steam inhalation to ease throat irritation and nasal blockage" }
+    ],
+    "apathya": [
+      { "item": "Cold drinks, ice, ice cream, refrigerated leftovers and iced desserts" },
+      { "item": "Curd, excess milk, banana, fried snacks and other heavy, Kapha-increasing foods" },
+      { "item": "Oily, stale, excessively sweet or incompatible food combinations (Viruddha Ahara)" },
+      { "item": "Daytime sleep, late nights and sleeping in a damp or cold room" },
+      { "item": "Direct cold wind, air-conditioning on the face and chest, and dusty or smoky environments" },
+      { "item": "Suppressing sneezing, coughing, thirst or the urge to clear the throat" }
+    ],
+    "lifestyle_tips": [
+      { "tip": "Keep the neck, chest and feet warm; cover the nose in cold wind or pollution." },
+      { "tip": "Inhale steam once or twice a day from hot water, optionally with ajwain or tulsi, taking care not to scald." },
+      { "tip": "Sleep with the head slightly raised if night congestion or post-nasal drip disturbs rest." },
+      { "tip": "Rest the voice; avoid shouting, cold baths and strenuous exercise until the cough eases." },
+      { "tip": "Eat only when hungry, keep meals warm and light, and stop eating before fullness to protect Agni." },
+      { "tip": "If using nasal oil (pratimarsha nasya) such as a drop of warm Anu Taila, do so only as advised by a qualified practitioner." }
+    ],
+    "yoga_pranayama": [
+      { "practice": "Anulom Vilom (alternate-nostril breathing) for 5–10 minutes once the nose is reasonably clear" },
+      { "practice": "Bhramari (humming-bee breath) to soothe the throat and calm Vata" },
+      { "practice": "Gentle Ujjayi breathing if it does not provoke coughing" },
+      { "practice": "Bhujangasana (cobra) and Matsyasana (fish) to open the chest once acute fever has settled" },
+      { "practice": "Avoid forceful Kapalabhati or Bhastrika during an acute productive cough, fever or breathlessness" }
+    ]
+  },
+
+  "precautions": [
+    { "precaution": "This page is educational and is not a diagnosis or a substitute for personalised medical or Ayurvedic care." },
+    { "precaution": "Seek urgent medical help for breathlessness, high fever, chest pain, confusion, or blood in sputum." },
+    { "precaution": "Do not give honey to infants under one year of age." },
+    { "precaution": "People with asthma, COPD, heart disease, diabetes, pregnancy, or those taking medicines should consult a qualified clinician before using concentrated herbs or classical formulations." },
+    { "precaution": "Do not heat honey. Warm teas should be allowed to cool before honey is added." },
+    { "precaution": "A cough that lasts beyond two to three weeks, worsens, or returns repeatedly should be investigated rather than self-treated." }
+  ],
+
+  "faqs": [
+    {
+      "question": "What is respiratory cough called in Ayurveda?",
+      "answer": "Cough is called Kasa. When it comes with a blocked or runny nose, sneezing and head heaviness, it is often linked with Pratishyaya (rhinitis or cold). The combined picture is Kasa-Pratishyaya, which maps closely to respiratory cough and congestion."
+    },
+    {
+      "question": "Which doshas are involved in Kasa and Pratishyaya?",
+      "answer": "Kapha and Vata are usually primary. Kapha produces mucus, heaviness and blockage; Vata (Prana and Udana) creates the forceful cough sound and dryness. Pitta may join when there is burning in the throat, fever or yellowish sputum."
+    },
+    {
+      "question": "Is a dry cough different from a wet cough in Ayurveda?",
+      "answer": "Yes. A dry, spasmodic cough is generally Vataja Kasa and is soothed with unctuous, warm, lubricating care. A wet, heavy cough with mucus is generally Kaphaja Kasa and is managed by reducing Kapha, kindling Agni and helping the channels clear. Mixing the two approaches without guidance can worsen symptoms."
+    },
+    {
+      "question": "What home supports are traditionally used for respiratory cough?",
+      "answer": "Common kitchen supports include warm ginger-tulsi tea, a pinch of turmeric, black pepper, steam inhalation, warm salt-water gargles, and a small amount of honey in cooled tea. These may ease mild seasonal cough and congestion but do not replace medical care when warning signs are present."
+    },
+    {
+      "question": "What should I eat and avoid during a cough with congestion?",
+      "answer": "Favour warm, light, freshly cooked food and warm fluids. Avoid cold drinks, ice cream, curd, leftover refrigerated food, fried snacks and daytime sleep. These are classically considered apathya because they increase Kapha and Ama in the respiratory channels."
+    },
+    {
+      "question": "When should I see a doctor instead of using home care?",
+      "answer": "See a doctor promptly for difficulty breathing, wheezing, high fever, chest pain, blood in sputum, symptoms in an infant or older adult, or a cough lasting more than two to three weeks. Ayurvedic diet and lifestyle measures can sit alongside, not instead of, appropriate medical assessment."
+    }
+  ],
+
+  "references": [
+    { "title": "Charaka Samhita, Chikitsa Sthana, Chapter 18 (Kasa Chikitsa)", "source": "Charaka Samhita", "year": "Classical" },
+    { "title": "Sushruta Samhita, Uttara Tantra, Chapter 24 (Pratishyaya) and Chapter 52 (Kasa)", "source": "Sushruta Samhita", "year": "Classical" },
+    { "title": "Ashtanga Hridaya, Nidana and Uttara Sthana chapters on Kasa and Pratishyaya", "source": "Ashtanga Hridaya (Vagbhata)", "year": "Classical" },
+    { "title": "Madhava Nidana on Kasa and Pratishyaya", "source": "Madhava Nidana", "year": "Classical" }
+  ]
+}

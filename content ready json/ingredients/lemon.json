@@ -1,0 +1,70 @@
+{
+  "_comment": "Lemon (Nimbu) ingredient import. Status is draft so nothing goes live by accident. The slug is 'lemon' because the remedy file 'content ready json/remedies/ardraka-deepana-ginger-lemon-relish.json' already points its ingredients_list at the slug 'lemon' - importing this file resolves that relationship.",
+
+  "_relationships_note": "featured_remedies points at ardraka-deepana-ginger-lemon-relish, which exists in 'content ready json/remedies/' and uses lemon in its ingredients_list. associated_diseases is left empty because neither disease file in 'content ready json/diseases/' is a condition lemon is traditionally used as a remedy for; add slugs later if a suitable disease page is written.",
+
+  "type": "ingredient",
+  "title": "Lemon (Nimbu)",
+  "slug": "lemon",
+  "status": "draft",
+
+  "ingredient_cat": ["Fruit / Berry"],
+
+  "seo": {
+    "title": "Lemon (Nimbu) - Ayurvedic Benefits, Uses, Dosage and Safety",
+    "description": "Lemon (Nimbu / Nimbuka) explained: its Ayurvedic properties, traditional use as a sour appetiser, dosage, benefits and the safety cautions around sour juice."
+  },
+
+  "botanical_name": "Citrus limon",
+  "sanskrit_name": "Nimbuka (नींबुक) and Jambira (जम्बीर) - the two names are used across the lemon and lime group",
+  "hindi_name": "Nimbu (नींबू)",
+  "short_description": "Lemon is the sour fruit of Citrus limon, used in Ayurveda as a Ruchya (appetiser) and Deepana substance, and valued in the kitchen as a fresh source of sour taste and vitamin C.",
+  "full_description": "<p>Lemon is the fruit of <em>Citrus limon</em>, a small evergreen tree of the Rutaceae family. Ayurveda treats the lemon and lime group under the names Nimbuka and Jambira, and the two words are not used with complete consistency across the texts - in most usage Nimbuka is the smaller, sharper fruit and Jambira the larger, juicier one. Both are described as Amla (sour) in rasa, Deepana and Pachana (kindling and aiding digestion), Ruchya (improving taste and appetite) and reducing to Kapha and Vata, with the caution that their sour, sharp nature increases Pitta and Rakta when taken in excess.</p><p>Its traditional use is closest to the kitchen: a few drops of the juice sharpen a dull appetite and cut through the heaviness of a Kapha-type meal, which is why it appears in before-meal relishes such as the ginger and lemon Agni relish, in sour drinks for thirst, and as a souring agent in many household preparations. Classical and folk practice also uses it where a mild sour taste is needed to stimulate Agni - in the appetite loss of convalescence, in dullness after eating, and in the nausea or thirst of a Kapha-Pitta imbalance, always in small amounts.</p><p>Modern nutrition values the fruit for vitamin C, citrate and other organic acids. Those constituents explain some of its long-standing uses, and the citrate content is also why lemon juice is often recommended to people who form certain kidney stones. Other popular claims - that lemon water 'detoxifies' the body, cures infections or melts fat - are not supported by evidence and do not appear in the classical literature. Like all sour substances, lemon is a food and a household support rather than a medicine for everyone, and it is avoided where there is already excess heat or acid in the stomach.</p>",
+
+  "recommended_dosage": {
+    "churna": "Not used as a churna - the fresh juice is used instead: 5-10 ml (about 1-2 tsp) as an appetiser or mixed in warm water",
+    "decoction": "Not prepared as a decoction of its own; the juice is usually added to warm water or to a herbal decoction after it has been taken off the heat, so the aroma is not lost",
+    "extract": "Standardised citrus extracts are a modern product rather than a traditional one; follow the label or a qualified practitioner's advice, and use the fresh fruit where possible"
+  },
+
+  "ayurvedic_properties": {
+    "rasa": [
+      { "value": "Amla (sour)" }
+    ],
+    "guna": [
+      { "value": "Laghu (light)" },
+      { "value": "Tikshna (sharp)" }
+    ],
+    "virya": "Ushna (heating)",
+    "vipaka": "Amla (sour)",
+    "dosha_effect": "Reduces Kapha and Vata; increases Pitta and Rakta when taken in excess. Its sour, sharp nature makes it a Deepana, Pachana and Ruchya substance that kindles appetite and digestion in small amounts, but aggravates heat and acidity in large amounts."
+  },
+
+  "key_benefits": [
+    { "benefit": "Acts as a Ruchya (appetiser) and Deepana (digestive stimulant) - a few drops of juice sharpen a dull appetite and cut through the heaviness of a Kapha-type meal." },
+    { "benefit": "Traditionally used in before-meal relishes and sour drinks to stimulate Agni in appetite loss of convalescence and dullness after eating." },
+    { "benefit": "Helps relieve nausea and thirst in Kapha-Pitta imbalance when used in small amounts." },
+    { "benefit": "Rich in vitamin C, citrate and organic acids - modern nutrition values it for immune support and the citrate content explains its traditional use for certain kidney stones." }
+  ],
+
+  "therapeutic_uses": [
+    { "use": "Loss of appetite and weak digestion (Mandagni), especially of Kapha origin - taken as fresh juice in warm water before meals." },
+    { "use": "Nausea and thirst associated with Kapha-Pitta imbalance - small amounts of lemon juice in water." },
+    { "use": "As a souring agent in household preparations and relishes to make heavy foods more digestible." },
+    { "use": "Supportive in citrate-responsive kidney stone prevention - fresh lemon juice diluted in water, under guidance." }
+  ],
+
+  "safety_and_contraindications": [
+    { "safety": "This page is educational. Lemon is a food and household support, not a medicine for everyone - use in moderation and seek qualified advice for therapeutic use." },
+    { "safety": "Excess heat and acidity: lemon increases Pitta and Rakta. Avoid in amlapitta (acid dyspepsia), heartburn, gastritis, active inflammation, bleeding piles or bleeding disorders. Large amounts may cause burning, nausea or loose motions." },
+    { "safety": "Dental health: frequent exposure to citric acid can erode tooth enamel. Rinse the mouth with plain water after consuming lemon juice." },
+    { "safety": "Skin sensitivity: applying lemon juice to skin and then exposing to sunlight can cause phytophotodermatitis (darkening, blistering). Avoid sun exposure after topical use." },
+    { "safety": "Citrus allergy: stop if rash, itching, swelling or breathing difficulty occurs." },
+    { "safety": "Medication interactions: lemon juice may affect the absorption of certain medicines (e.g., some antibiotics, antacids). Separate lemon juice and medication by at least one hour, and consult a pharmacist if unsure." },
+    { "safety": "Not a substitute for medical treatment: popular claims that lemon water 'detoxifies' the body, cures infections or melts fat are not supported by evidence and do not appear in classical literature." }
+  ],
+
+  "featured_remedies": ["ardraka-deepana-ginger-lemon-relish"],
+
+  "associated_diseases": []
+}
