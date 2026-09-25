@@ -1,0 +1,64 @@
+{
+  "_comment": "Tea Leaves ingredient import. Status is draft so nothing goes live by accident.",
+
+  "type": "ingredient",
+  "title": "Tea Leaves",
+  "slug": "tea-leaves",
+  "status": "draft",
+
+  "ingredient_cat": ["Leaf / Herb"],
+
+  "seo": {
+    "title": "Tea Leaves (Camellia sinensis, Chai Patti) - Benefits, Uses and Safety",
+    "description": "Learn about tea leaves, including botanical identity, Ayurvedic qualities, traditional kitchen uses, caffeine considerations, dosage and safety."
+  },
+
+  "botanical_name": "Camellia sinensis",
+  "sanskrit_name": "Chaha",
+  "hindi_name": "Chai patti",
+  "short_description": "Tea leaves are the dried leaves of Camellia sinensis, a bitter-astringent, heating kitchen infusion used for alertness and light Kapha, but drying and stimulating if overused.",
+  "full_description": "<p>Tea leaves are the processed leaves of <em>Camellia sinensis</em>, known in Hindi as chai patti. Tea is not a classical Charaka-era dravya; it entered Indian kitchen use later. In contemporary Ayurvedic reading it is tikta and kashaya (bitter and astringent), laghu and ruksha (light and dry), and ushna (heating), with a stimulating effect from caffeine.</p><p>A modest cup may feel clearing for Kapha and helpful after a heavy meal. Excess tea commonly aggravates Pitta (acidity, heat, restlessness) and Vata (dryness, insomnia, jitteriness). It is not a substitute for tulsi or ginger tea in cough care. Prefer a light infusion rather than a long, strong decoction, and avoid it on an empty stomach if you have reflux or feel ungrounded.</p>",
+
+  "recommended_dosage": {
+    "churna": "Not typically used as churna; 1-2 g dried leaf per cup",
+    "decoction": "150-200 ml light infusion; avoid long boiling of strong tea",
+    "extract": "Use only as directed by a qualified practitioner"
+  },
+
+  "ayurvedic_properties": {
+    "rasa": [
+      { "value": "Tikta (bitter)" },
+      { "value": "Kashaya (astringent)" }
+    ],
+    "guna": [
+      { "value": "Laghu (light)" },
+      { "value": "Ruksha (dry)" }
+    ],
+    "virya": "Ushna (heating)",
+    "vipaka": "Katu (pungent)",
+    "dosha_effect": "May reduce Kapha in small amounts; excess readily aggravates Pitta and Vata because of heat, dryness and stimulation."
+  },
+
+  "key_benefits": [
+    { "benefit": "A light cup may support alertness and a feeling of clarity." },
+    { "benefit": "Bitter-astringent taste may feel reducing to excess Kapha after heavy food." },
+    { "benefit": "Used as a kitchen beverage, often with ginger, cardamom or milk according to local habit." }
+  ],
+
+  "therapeutic_uses": [
+    { "use": "Used as a mild after-meal drink when digestion feels heavy, in modest amounts." },
+    { "use": "Used as a household infusion; not a classical Kasahara herb like tulsi or ginger." },
+    { "use": "Sometimes combined with digestive spices in masala chai; milk and sugar change its effect and can increase Kapha." }
+  ],
+
+  "safety_and_contraindications": [
+    { "safety": "Contains caffeine. Excess may cause insomnia, palpitations, anxiety, tremor or acidity." },
+    { "safety": "People with reflux, ulcers, marked Pitta, anxiety, insomnia, or Vata dryness should limit or avoid strong tea, especially on an empty stomach." },
+    { "safety": "Tea tannins can reduce iron absorption; leave a gap around iron-rich meals or iron supplements if this is a concern." },
+    { "safety": "Pregnant people, children, and those taking medicines (including for blood pressure, anxiety or sleep) should seek professional advice before using tea as a regular stimulant." },
+    { "safety": "Do not confuse tea leaves with tulsi. For cough and congestion, tulsi or ginger infusions are the more traditional kitchen supports." }
+  ],
+
+  "featured_remedies": [],
+  "associated_diseases": []
+}
