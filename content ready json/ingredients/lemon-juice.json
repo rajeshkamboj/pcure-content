@@ -1,0 +1,65 @@
+{
+  "_comment": "Lemon Juice ingredient import. Status is draft so nothing goes live by accident.",
+
+  "type": "ingredient",
+  "title": "Lemon Juice",
+  "slug": "lemon-juice",
+  "status": "draft",
+
+  "ingredient_cat": ["Fruit / Citrus"],
+
+  "seo": {
+    "title": "Lemon Juice (Nimbuka, Nimbu) - Benefits, Uses and Safety",
+    "description": "Learn about lemon juice, or nimbuka, including its botanical identity, Ayurvedic properties, traditional uses for digestion and thirst, dosage and safety considerations."
+  },
+
+  "botanical_name": "Citrus limon",
+  "sanskrit_name": "Nimbuka / Jambira",
+  "hindi_name": "Nimbu",
+  "short_description": "Lemon juice is the sour, heating juice of the lemon fruit, traditionally used in small amounts to kindle Agni, support digestion and quench thirst.",
+  "full_description": "<p>Lemon juice is the freshly squeezed juice of <em>Citrus limon</em>, known in Ayurveda as Nimbuka or Jambira and in Hindi as nimbu. It is amla (sour), laghu (light) and tikshna (sharp), with ushna (heating) potency. Although lemon drinks are often thought of as cooling, classical Ayurveda treats sour citrus as heating and Pitta-increasing when used in excess.</p><p>A teaspoon or two in warm water is a common household use to stimulate appetite and digestion (dipana). It may also be taken with honey in a cooled drink for occasional throat irritation, provided the honey is never heated. Fresh juice is preferred over bottled or long-boiled preparations. People with reflux, ulcers or marked Pitta should use it sparingly or avoid it.</p>",
+
+  "recommended_dosage": {
+    "churna": "Not used as churna; 1-2 tsp fresh juice",
+    "decoction": "1-2 tsp in 150-200 ml warm (not boiling) water",
+    "extract": "Use only as directed by a qualified practitioner"
+  },
+
+  "ayurvedic_properties": {
+    "rasa": [
+      { "value": "Amla (sour)" }
+    ],
+    "guna": [
+      { "value": "Laghu (light)" },
+      { "value": "Tikshna (sharp)" }
+    ],
+    "virya": "Ushna (heating)",
+    "vipaka": "Amla (sour)",
+    "dosha_effect": "Traditionally considered supportive for Vata and Kapha in small amounts; it readily aggravates Pitta, especially in excess or on an empty stomach."
+  },
+
+  "key_benefits": [
+    { "benefit": "Supports healthy digestion, appetite and Agni in small amounts." },
+    { "benefit": "May help relieve occasional thirst, sluggish appetite and heaviness after meals." },
+    { "benefit": "Used in cooled drinks with honey for mild throat irritation, without heating the honey." },
+    { "benefit": "Adds sour flavour to food and kitchen preparations when used fresh." }
+  ],
+
+  "therapeutic_uses": [
+    { "use": "Traditionally used for Mandagni, reduced appetite and occasional indigestion." },
+    { "use": "Used as warm lemon water to support digestion, taken in modest amounts." },
+    { "use": "Used with cooled honey for occasional cough or sore throat, never boiled together." },
+    { "use": "Used as a culinary souring agent in chutneys, dressings and light meals." }
+  ],
+
+  "safety_and_contraindications": [
+    { "safety": "Sour and heating; excess may cause heartburn, mouth ulcers or Pitta aggravation." },
+    { "safety": "People with reflux, gastritis, peptic ulcers, or marked Pitta should limit or avoid lemon juice, especially on an empty stomach." },
+    { "safety": "Acidic juice can erode tooth enamel; rinse the mouth with plain water after drinking it, and avoid brushing immediately." },
+    { "safety": "Do not boil lemon juice with honey. If combining with honey, add honey only after the liquid has cooled." },
+    { "safety": "People taking medicines, with citrus allergy, or with sensitive teeth should consult a qualified healthcare professional before using it as a regular remedy." }
+  ],
+
+  "featured_remedies": [],
+  "associated_diseases": []
+}
