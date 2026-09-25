@@ -28,7 +28,8 @@
 
   "ingredients_list": [
     { "ingredient": "tulsi", "quantity": "8-10 fresh leaves, or 1 tsp dried", "notes": "Wash fresh leaves before use" },
-    { "ingredient": "ginger", "quantity": "1-2 thin slices fresh, or a pinch of dry powder", "notes": "Fresh ginger is preferred for a seasonal cough" }
+    { "ingredient": "ginger", "quantity": "1-2 thin slices fresh, or a pinch of dry powder", "notes": "Fresh ginger is preferred for a seasonal cough" },
+    { "ingredient": "raw-honey", "quantity": "1/2 teaspoon, optional", "notes": "Add only after the tea has cooled below steaming heat; never boil honey" }
   ],
 
   "preparation": [

@@ -27,7 +27,8 @@
   "featured": false,
 
   "ingredients_list": [
-    { "ingredient": "black-pepper", "quantity": "1 pinch of freshly crushed pepper", "notes": "A pinch only; do not use a heaped spoon" }
+    { "ingredient": "black-pepper", "quantity": "1 pinch of freshly crushed pepper", "notes": "A pinch only; do not use a heaped spoon" },
+    { "ingredient": "raw-honey", "quantity": "1/2 teaspoon", "notes": "Use raw, unheated honey at room temperature" }
   ],
 
   "preparation": [

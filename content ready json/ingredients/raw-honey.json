@@ -1,0 +1,67 @@
+{
+  "_comment": "Raw Honey ingredient import. Status is draft so nothing goes live by accident.",
+
+  "type": "ingredient",
+  "title": "Raw Honey",
+  "slug": "raw-honey",
+  "status": "draft",
+
+  "ingredient_cat": ["Nectar / Sweetener"],
+
+  "seo": {
+    "title": "Raw Honey (Madhu, Shahad) - Benefits, Uses and Safety",
+    "description": "Learn about raw honey, or madhu, including its Ayurvedic properties, traditional use as anupana for cough, dosage and important safety rules such as never heating it."
+  },
+
+  "botanical_name": "Apis mellifera",
+  "sanskrit_name": "Madhu",
+  "hindi_name": "Shahad",
+  "short_description": "Raw honey is unheated honey traditionally used in Ayurveda as Madhu — a yogavahi anupana that soothes the throat, reduces Kapha and carries other herbs in cough and congestion.",
+  "full_description": "<p>Raw honey is unpasteurised, unheated honey produced by honeybees (<em>Apis mellifera</em> and related species). In Ayurveda it is called Madhu (Hindi: shahad). It is classically described as madhura and kashaya in taste, laghu and ruksha in quality, sheeta in potency, and katu in vipaka — sweet on the tongue, yet light and drying after digestion.</p><p>Madhu is yogavahi: it is said to carry other substances more deeply into the tissues. A small amount is a traditional anupana for Kasa (cough) and Pratishyaya, often with black pepper, dry ginger or herbal churnas. Ayurveda is strict that honey must never be heated or added to boiling liquid; heated honey is considered harmful. Prefer raw, unprocessed honey at room temperature or in food that has cooled. Culinary teaspoons are the usual household amount; it is not suitable for infants under one year of age.</p>",
+
+  "recommended_dosage": {
+    "churna": "1/2-2 tsp as anupana (not a churna; mix with powders only when cool)",
+    "decoction": "Do not boil or heat honey; add only after tea has cooled to warm",
+    "extract": "Use only as directed by a qualified practitioner"
+  },
+
+  "ayurvedic_properties": {
+    "rasa": [
+      { "value": "Madhura (sweet)" },
+      { "value": "Kashaya (astringent)" }
+    ],
+    "guna": [
+      { "value": "Laghu (light)" },
+      { "value": "Ruksha (dry)" },
+      { "value": "Vishada (clearing)" }
+    ],
+    "virya": "Sita (cooling)",
+    "vipaka": "Katu (pungent)",
+    "dosha_effect": "Traditionally considered balancing for Kapha and Pitta in small amounts; its dryness may aggravate Vata if overused. Heated honey is avoided in classical practice."
+  },
+
+  "key_benefits": [
+    { "benefit": "Traditionally used to soothe the throat and ease cough, especially as an anupana." },
+    { "benefit": "May help reduce Kapha stickiness while remaining lighter than other sweeteners." },
+    { "benefit": "Yogavahi quality is said to support the action of accompanying herbs and spices." },
+    { "benefit": "Used in small amounts as a kitchen sweetener when it is not heated." }
+  ],
+
+  "therapeutic_uses": [
+    { "use": "Traditionally used for Kasa (cough), Pratishyaya and throat irritation, often with black pepper or ginger." },
+    { "use": "Used as anupana for Kapha-reducing churnas, taken only in cool or lukewarm mixtures." },
+    { "use": "Used in household licks and pastes (avaleha-style) that are never cooked after honey is added." },
+    { "use": "Used in small culinary amounts in cooled teas, dressings and uncooked preparations." }
+  ],
+
+  "safety_and_contraindications": [
+    { "safety": "Never heat honey or add it to boiling water, milk or tea. Classical texts treat heated honey as harmful." },
+    { "safety": "Do not give honey to infants under one year of age because of the risk of infant botulism." },
+    { "safety": "People with diabetes, pollen or bee-product allergy, or those taking medicines should consult a qualified healthcare professional before using honey as a regular remedy." },
+    { "safety": "Avoid mixing honey and ghee in equal quantities; this combination is classically described as incompatible (viruddha)." },
+    { "safety": "Use modest amounts. Excess sweetness can burden digestion; stop use if allergy, rash or significant discomfort occurs." }
+  ],
+
+  "featured_remedies": ["black-pepper-honey", "tulsi-ginger-tea"],
+  "associated_diseases": ["kasa-pratishyaya-respiratory-congestion"]
+}
