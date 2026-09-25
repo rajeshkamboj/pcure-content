@@ -1,5 +1,5 @@
 {
-  "_comment": "Black pepper ingredient import. Status is draft so nothing goes live by accident.",
+  "_comment": "Black Pepper ingredient import. Status is draft so nothing goes live by accident.",
 
   "type": "ingredient",
   "title": "Black Pepper",
@@ -10,18 +10,18 @@
 
   "seo": {
     "title": "Black Pepper (Maricha, Kali Mirch) - Benefits, Uses and Safety",
-    "description": "Learn about black pepper, or maricha, including its botanical identity, Ayurvedic properties, traditional uses for cough and Kapha congestion, dosage and safety."
+    "description": "Learn about black pepper, or maricha, including its botanical identity, Ayurvedic properties, traditional uses for digestion and cough, dosage and safety considerations."
   },
 
   "botanical_name": "Piper nigrum",
   "sanskrit_name": "Maricha",
   "hindi_name": "Kali mirch",
-  "short_description": "Black pepper is a pungent, heating spice traditionally used in small amounts to kindle Agni, reduce Kapha and help clear cough and respiratory congestion.",
-  "full_description": "<p>Black pepper is the dried fruit of <em>Piper nigrum</em>, known in Ayurveda as Maricha. It is sharp, light and heating, and is a classical Kapha-Vata pacifying spice. In household practice a pinch is often taken with honey for productive cough, or boiled with tulsi and ginger as a tea for Pratishyaya and Kasa.</p>",
+  "short_description": "Black pepper is a pungent, heating spice traditionally used in small amounts to kindle Agni, reduce Kapha and support digestion, appetite and respiratory comfort.",
+  "full_description": "<p>Black pepper is the dried fruit of <em>Piper nigrum</em>, known in Ayurveda as Maricha and in Hindi as kali mirch. It is one of the most widely used culinary spices and a classical Kapha-Vata pacifying dravya: katu (pungent), laghu (light), tikshna (sharp) and ushna (heating).</p><p>In traditional practice a pinch is used to stimulate digestion (dipana-pachana), reduce Ama and help clear sticky Kapha from the channels. Household uses include a pinch with honey for productive cough, and teas or decoctions with ginger and tulsi for seasonal congestion. It is also a component of Trikatu, the classical three-pungent combination of black pepper, long pepper and dry ginger. Culinary amounts in food are the usual starting point; concentrated powders and extracts should be used only with professional guidance.</p>",
 
   "recommended_dosage": {
     "churna": "250 mg-1 g",
-    "decoction": "Use a pinch in 30-50 ml tea",
+    "decoction": "A pinch in 30-50 ml warm tea or water",
     "extract": "Use only as directed by a qualified practitioner"
   },
 
@@ -36,25 +36,28 @@
     ],
     "virya": "Ushna (heating)",
     "vipaka": "Katu (pungent)",
-    "dosha_effect": "Traditionally considered balancing for Kapha and Vata; it readily aggravates Pitta if overused."
+    "dosha_effect": "Traditionally considered balancing for Kapha and Vata; excess readily aggravates Pitta and may cause burning or heartburn."
   },
 
   "key_benefits": [
-    { "benefit": "Traditionally used in small amounts to help clear mucus and ease productive cough." },
-    { "benefit": "Kindles Agni and may reduce Ama that feeds Kapha in the airways." },
-    { "benefit": "Used with honey or in teas with tulsi and ginger for seasonal congestion." }
+    { "benefit": "Supports healthy digestion, appetite and Agni in small amounts." },
+    { "benefit": "May help reduce Ama and excess Kapha that feel heavy or sticky." },
+    { "benefit": "Traditionally used to ease productive cough and mild respiratory congestion." },
+    { "benefit": "Used as a yogavahi spice that may support the action of other herbs and foods." }
   ],
 
   "therapeutic_uses": [
-    { "use": "Traditionally used for Kaphaja Kasa (wet cough) and Pratishyaya." },
-    { "use": "Used as a pinch with honey, or in decoctions with ginger and tulsi." },
-    { "use": "A component of Trikatu, a classical digestive and Kapha-reducing combination." }
+    { "use": "Traditionally used for Mandagni, indigestion, bloating and sluggish appetite." },
+    { "use": "Used for Kaphaja Kasa (wet cough), Pratishyaya and seasonal congestion, often with honey, ginger or tulsi." },
+    { "use": "Used in digestive and respiratory spice blends, including Trikatu." },
+    { "use": "Used in culinary amounts to flavour food and keep meals lighter and easier to digest." }
   ],
 
   "safety_and_contraindications": [
     { "safety": "Use only small culinary amounts; excess can burn the throat, worsen reflux or aggravate Pitta." },
-    { "safety": "People with ulcers, severe gastritis, or those taking medicines should consult a qualified healthcare professional before using concentrated pepper." },
-    { "safety": "Not suitable as a bulk powder for children; keep pinches small and seek advice for infants." }
+    { "safety": "People with ulcers, severe gastritis, bleeding disorders, or those taking medicines should consult a qualified healthcare professional before using concentrated pepper." },
+    { "safety": "Keep pinches small for children; do not use bulk powder in infants, and seek advice in pregnancy before using it as a remedy." },
+    { "safety": "Stop use and seek medical advice if an allergic reaction, severe burning or significant discomfort occurs." }
   ],
 
   "featured_remedies": ["black-pepper-honey", "turmeric-black-pepper-gargle"],
