@@ -1,0 +1,65 @@
+{
+  "_comment": "Water ingredient import. Status is draft so nothing goes live by accident.",
+
+  "type": "ingredient",
+  "title": "Water",
+  "slug": "water",
+  "status": "draft",
+
+  "ingredient_cat": ["Liquid / Anupana"],
+
+  "seo": {
+    "title": "Water (Jala, Pani) - Ayurvedic Properties, Uses and Safety",
+    "description": "Learn how Ayurveda understands water, or jala, including warm versus cold water, anupana use, digestive effects, dosage guidance and safety."
+  },
+
+  "botanical_name": "Aqua (H2O)",
+  "sanskrit_name": "Jala / Udaka",
+  "hindi_name": "Jal / Pani",
+  "short_description": "Water is jala, the primary liquid anupana in Ayurveda. Warm water (ushnodaka) is light and kindles Agni; ice-cold water is heavier and more Kapha-increasing.",
+  "full_description": "<p>Water, called Jala or Udaka in Sanskrit and jal or pani in Hindi, is not a plant drug but one of the five mahabhutas and the most important everyday anupana. Classical texts discuss many sources of water; in kitchen practice the useful distinction is temperature and timing. Cool water is generally sheeta and heavier. Warm water (ushnodaka) is considered laghu, dipana and more suitable when Agni is low, Kapha is high, or there is Ama, cough or congestion.</p><p>Sip clean, potable water through the day according to thirst. During Kasa, Pratishyaya or sluggish digestion, prefer warm rather than refrigerated or iced water. Very large amounts with meals can dilute Agni. Water quality matters: unsafe or heavily contaminated water should not be used. This page is educational and does not replace local public-health advice on drinking-water safety.</p>",
+
+  "recommended_dosage": {
+    "churna": "Not used as churna",
+    "decoction": "Warm water as needed; often 150-250 ml at a time, sipped",
+    "extract": "Not applicable; use potable water only"
+  },
+
+  "ayurvedic_properties": {
+    "rasa": [
+      { "value": "Madhura (sweet)" }
+    ],
+    "guna": [
+      { "value": "Laghu when warm (ushnodaka)" },
+      { "value": "Guru and more cooling when taken ice-cold" }
+    ],
+    "virya": "Sita when cold; Ushna when taken warm (ushnodaka)",
+    "vipaka": "Madhura (sweet)",
+    "dosha_effect": "Warm water is traditionally considered supportive for Kapha and Ama and easier on Agni. Ice-cold water may increase Kapha, dampen digestion and aggravate conditions such as cough and congestion. Excess cold water can also disturb Vata in some people."
+  },
+
+  "key_benefits": [
+    { "benefit": "Maintains hydration, which is essential for digestion, tissues and elimination." },
+    { "benefit": "Warm water is traditionally used to support Agni and help clear Kapha and Ama." },
+    { "benefit": "The most common anupana for teas, churnas and household remedies." },
+    { "benefit": "Sipping warm water may ease heaviness and mild congestion compared with iced drinks." }
+  ],
+
+  "therapeutic_uses": [
+    { "use": "Everyday anupana for food, herbs and kitchen remedies." },
+    { "use": "Ushnodaka (warm water) is traditionally preferred in Mandagni, Ama, Kasa and Pratishyaya." },
+    { "use": "Used for sipping through the day according to thirst, rather than large gulps with meals." },
+    { "use": "Used as the base for infusions such as ginger or tulsi tea." }
+  ],
+
+  "safety_and_contraindications": [
+    { "safety": "Use only clean, potable water. Do not drink water from an unsafe or unknown source." },
+    { "safety": "Ice-cold and refrigerated drinks may impair Agni and increase Kapha; they are often avoided during cough, cold and sluggish digestion." },
+    { "safety": "Very large amounts of water with meals can dilute digestive fire; sip according to thirst instead." },
+    { "safety": "People with kidney, heart or fluid-restriction advice from a clinician should follow that medical guidance, not a general hydration slogan." },
+    { "safety": "Boiling water to make it safe is a public-health measure; once cooled to a drinkable warmth it can still be used as ushnodaka." }
+  ],
+
+  "featured_remedies": [],
+  "associated_diseases": []
+}
