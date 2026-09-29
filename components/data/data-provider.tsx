@@ -19,7 +19,7 @@ import {
   type ReactNode,
 } from 'react';
 import { addDays, todayISO } from '@/lib/dates';
-import { createRepository, type AppRepository } from '@/lib/store';
+import { createRepository, repositoryKind, type AppRepository } from '@/lib/store';
 import { isOpenTask } from '@/lib/selectors';
 import type {
   AppData,
@@ -149,9 +149,12 @@ export function DataProvider({ children }: { children: ReactNode }) {
   const [data, setData] = useState<AppData>(emptyData());
   const [ready, setReady] = useState(false);
   const [toasts, setToasts] = useState<Toast[]>([]);
+  const repoKind = repositoryKind();
   const repoRef = useRef<AppRepository | null>(null);
   const dataRef = useRef(data);
-  dataRef.current = data;
+  useEffect(() => {
+    dataRef.current = data;
+  }, [data]);
 
   const notify = useCallback((message: string) => {
     const id = ++toastCounter;
@@ -678,8 +681,8 @@ export function DataProvider({ children }: { children: ReactNode }) {
   );
 
   const value = useMemo<DataContextValue>(
-    () => ({ ready, data, repoKind: repoRef.current?.kind ?? 'local', toasts, notify, dismissToast, actions }),
-    [ready, data, toasts, notify, dismissToast, actions],
+    () => ({ ready, data, repoKind, toasts, notify, dismissToast, actions }),
+    [ready, data, repoKind, toasts, notify, dismissToast, actions],
   );
 
   return <DataContext.Provider value={value}>{children}</DataContext.Provider>;

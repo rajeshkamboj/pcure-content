@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import { Modal } from './modal';
 import { Button } from './button';
 import { Input } from './form';
@@ -30,9 +30,11 @@ export function DateModal({
 }) {
   const [value, setValue] = useState(initialDate ?? '');
 
-  useEffect(() => {
+  const [wasOpen, setWasOpen] = useState(open);
+  if (open !== wasOpen) {
+    setWasOpen(open);
     if (open) setValue(initialDate ?? '');
-  }, [open, initialDate]);
+  }
 
   return (
     <Modal

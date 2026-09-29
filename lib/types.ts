@@ -134,6 +134,10 @@ export interface DailyPriority {
   title: string;
   completed: boolean;
   completedAt?: ISODateTime;
+  /** Optional deadline for the priority, separate from its day. */
+  dueDate?: ISODate;
+  /** How many times the priority has been moved to another day. */
+  postponementCount?: number;
 }
 
 export interface WeeklyPriority {

@@ -184,6 +184,8 @@ const dailyPriorityMap = {
     title: d.title,
     completed: d.completed,
     completed_at: d.completedAt ?? null,
+    due_date: d.dueDate ?? null,
+    postponement_count: d.postponementCount ?? 0,
   }),
   fromRow: (r: Row): DailyPriority => ({
     id: String(r.id),
@@ -191,6 +193,8 @@ const dailyPriorityMap = {
     title: String(r.title ?? ''),
     completed: bool(r.completed),
     completedAt: str(r.completed_at),
+    dueDate: str(r.due_date),
+    postponementCount: num(r.postponement_count) ?? 0,
   }),
 };
 

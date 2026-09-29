@@ -25,11 +25,12 @@ export function FocusMode() {
   const [seconds, setSeconds] = useState(0);
   const [running, setRunning] = useState(true);
 
-  useEffect(() => {
-    if (!focusTarget) return;
+  const [trackedTarget, setTrackedTarget] = useState(focusTarget);
+  if (trackedTarget !== focusTarget) {
+    setTrackedTarget(focusTarget);
     setSeconds(0);
     setRunning(true);
-  }, [focusTarget]);
+  }
 
   useEffect(() => {
     if (!focusTarget || !running) return;

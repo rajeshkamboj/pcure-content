@@ -69,7 +69,9 @@ function show(title: string, body: string) {
 export function useNotificationScheduler() {
   const { data, ready } = useData();
   const dataRef = useRef(data);
-  dataRef.current = data;
+  useEffect(() => {
+    dataRef.current = data;
+  }, [data]);
 
   useEffect(() => {
     if (!ready) return;

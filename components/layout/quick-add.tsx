@@ -26,12 +26,11 @@ export function QuickAdd() {
     return () => window.removeEventListener('keydown', onKey);
   }, [openQuickAdd]);
 
-  useEffect(() => {
-    if (quickAddOpen) {
-      setValue('');
-      requestAnimationFrame(() => inputRef.current?.focus());
-    }
-  }, [quickAddOpen]);
+  const [wasOpen, setWasOpen] = useState(quickAddOpen);
+  if (wasOpen !== quickAddOpen) {
+    setWasOpen(quickAddOpen);
+    if (quickAddOpen) setValue('');
+  }
 
   if (!quickAddOpen) return null;
 
@@ -59,6 +58,7 @@ export function QuickAdd() {
         >
           <input
             ref={inputRef}
+            autoFocus
             value={value}
             onChange={(e) => setValue(e.target.value)}
             onKeyDown={(e) => {
